@@ -13,6 +13,8 @@ namespace PDFParser
 {
     public class Metodos
     {
+        #region Auxiliares
+        
         private static string[] ArrayPerPdfPage(string inputPdfPath)
         {
             PdfReader reader = new PdfReader(inputPdfPath);
@@ -55,7 +57,7 @@ namespace PDFParser
                 return "M";
             }
         }
-
+        #endregion
 
         #region Funciones para parsear cada transaccion
 
@@ -313,9 +315,8 @@ namespace PDFParser
         #endregion
 
         #endregion
-
-
-        #region Metodos de Parseo de las paginas enteras en Txt generadas
+        
+        #region Metodos de Parseo pagina por pagina
         
         private static string ParsearUnaPaginaTxtPershing(string[] paginas, int pageNumber)
         {
@@ -397,8 +398,10 @@ namespace PDFParser
         }
         #endregion
 
-
-
+        /// <summary> 
+        /// Dado un path hacia el archivo PDF, devuelve un string con estilo JSON
+        /// </summary>
+        /// <returns>string PDF</returns>
         public static string ProcesarPDF(string filePath)
         {
             string[] paginas = ArrayPerPdfPage(filePath);
@@ -416,6 +419,9 @@ namespace PDFParser
             }
         }
 
+        /// <summary> 
+        /// Dado un path hacia el archivo PDF, crea un txt con estilo JSON en la direccion especificada
+        /// </summary>
         public static void ProcesarPDFDevuelveArchivo(string filePath, string outputFilePath)
         {
             string[] paginas = ArrayPerPdfPage(filePath);
@@ -434,7 +440,5 @@ namespace PDFParser
                 }
             }
         }
-
-
     }
 }
