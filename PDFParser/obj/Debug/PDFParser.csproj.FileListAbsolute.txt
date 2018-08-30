@@ -1,0 +1,6 @@
+c:\users\laptop1\documents\visual studio 2015\Projects\PDFParser\PDFParser\bin\Debug\PDFParser.dll
+c:\users\laptop1\documents\visual studio 2015\Projects\PDFParser\PDFParser\bin\Debug\PDFParser.pdb
+c:\users\laptop1\documents\visual studio 2015\Projects\PDFParser\PDFParser\bin\Debug\itextsharp.dll
+c:\users\laptop1\documents\visual studio 2015\Projects\PDFParser\PDFParser\obj\Debug\PDFParser.dll
+c:\users\laptop1\documents\visual studio 2015\Projects\PDFParser\PDFParser\obj\Debug\PDFParser.pdb
+C:\Users\laptop1\Documents\Visual Studio 2015\Projects\PDFParser\PDFParser\obj\Debug\PDFParser.csprojResolveAssemblyReference.cache
