@@ -138,8 +138,8 @@ namespace PDFParser
             string lineaActual = todasLasLineas[lineaEspecifica];
             string retorno = "";
 
-            retorno = "\r\t\"IP\" : " + ObtenerIPDeEsaLinea(lineaActual) + ", \r\n";
-            retorno += "\r\t\"Cuentas\": [{\"Account\" : " + ObtenerOFFDeEsaLinea(lineaActual) + ObtenerAccountDeEsaLineaPershing(lineaActual) + ", ";
+            retorno = "{\"IP\": " + ObtenerIPDeEsaLinea(lineaActual) + ", ";
+            retorno += "\"Cuentas\": [{\"Account\" : " + ObtenerOFFDeEsaLinea(lineaActual) + ObtenerAccountDeEsaLineaPershing(lineaActual) + ", ";
             retorno += "\"Total\": " + ObtenerNPLPartDeEsaLinea(lineaActual);
             lineaEspecifica++;
             lineaActual = todasLasLineas[lineaEspecifica]; //bajo una linea, para chequear si es la ultima de ese interes o -
@@ -153,7 +153,7 @@ namespace PDFParser
                 lineaActual = todasLasLineas[lineaEspecifica];
             }
 
-            retorno += "}], \r\n\r\t\"Total\" : " + ObtenerNPLPartDeEsaLinea(lineaActual) + "\r\n";
+            retorno += "}], \"Total\" : " + ObtenerNPLPartDeEsaLinea(lineaActual) + "}";
             lineaEspecifica++; //luego de cada interes, tenemos una linea en blanco, que con esto 
 
             return retorno;
@@ -254,7 +254,10 @@ namespace PDFParser
             string s = "";
             while (letra != ' ')
             {
-                s = s + letra.ToString();
+                if (letra != '-') //para omitir los guioncitos molestos que aparecen al azar a veces en "Gross-Revenue"
+                {
+                    s = s + letra.ToString();
+                }                
                 i++;
                 letra = line[i];
             }
@@ -269,13 +272,13 @@ namespace PDFParser
             //cada dos filas, tenemos una transaccion. Este metodo parsea eso.
             string lineaInicial = todasLasLineasDeLaPagina[initialLine];
             string segundaLinea = todasLasLineasDeLaPagina[initialLine + 1];
-            string retorno = "Account : " + ObtenerAccountDeEsaLinea(ref lineaInicial) + "; ";
-            retorno += "Cusip : " + ObtenerCusipDeEsaLinea(ref segundaLinea) + "; ";
-            retorno += "Settlement Date : " + ObtenerSettlementDateDeEsaLinea(ref lineaInicial) + "; ";
-            retorno += "Trade Date: " + ObtenerTradeDateDeEsaLinea(ref segundaLinea) + "; ";
-            retorno += "BuySell: " + ObtenerBuySellDeEsaLinea(ref segundaLinea) + "; ";
-            retorno += "Quantity : " + ObtenerQuantityDeEsaLinea(ref lineaInicial) + "; ";
-            retorno += "Gross Revenue : " + ObtenerGrossRevenueDeEsaLinea(ref lineaInicial);
+            string retorno = "{Account : " + ObtenerAccountDeEsaLinea(ref lineaInicial) + ", ";
+            retorno += "Cusip : " + ObtenerCusipDeEsaLinea(ref segundaLinea) + ", ";
+            retorno += "Settlement Date : " + ObtenerSettlementDateDeEsaLinea(ref lineaInicial) + ", ";
+            retorno += "Trade Date: " + ObtenerTradeDateDeEsaLinea(ref segundaLinea) + ", ";
+            retorno += "BuySell: " + ObtenerBuySellDeEsaLinea(ref segundaLinea) + ", ";
+            retorno += "Quantity : " + ObtenerQuantityDeEsaLinea(ref lineaInicial) + ", ";
+            retorno += "Gross Revenue : " + ObtenerGrossRevenueDeEsaLinea(ref lineaInicial) + "}";
             return retorno;
         }
         #endregion
@@ -313,7 +316,7 @@ namespace PDFParser
 
 
         #region Metodos de Parseo de las paginas enteras en Txt generadas
-
+        
         private static string ParsearUnaPaginaTxtPershing(string[] paginas, int pageNumber)
         {
             string[] todasLasLineas = paginas[pageNumber].Split('\n');
@@ -329,7 +332,7 @@ namespace PDFParser
                 if (!EsLineaEnBlanco(todasLasLineas[lineaEspecifica]))
                 {
                     transaccionParseada = ParsearUnInteresPershing(todasLasLineas, ref lineaEspecifica);
-                    retorno += transaccionParseada + "\r\n \r\n";
+                    retorno += transaccionParseada + ",\r\n";
                     //lineaEspecifica += 2; lo cambio, esto es variable, por tanto lo maneja/incrementa el 
                     //parser de intereses, que tiene acceso directo a los datos 
                 }
@@ -338,17 +341,23 @@ namespace PDFParser
                     lineaEspecifica += 1;
                 }
             }
+            #region TURBIO
+            //para que el ultimo interes no tenga la comita "," en offside al final. 
+            retorno = retorno.Remove(retorno.Length - 3);
+            retorno += "\r\n";
+            #endregion
             return retorno;
         }
 
         private static string ProcesarTxtPagesPershing(string[] paginas)
         {
-            StringBuilder retorno = new StringBuilder();
+            string retorno = "{ \r\n\"PDF\":\r\n{\r\n\"Intereses\":[\r\n";
             for (int page = 1; page <= paginas.Length - 1; page++)
             {
-                retorno.Append(ParsearUnaPaginaTxtPershing(paginas, page));
+                retorno += ParsearUnaPaginaTxtPershing(paginas, page);
             }
-            return retorno.ToString();
+            retorno += "]\r\n}\r\n}";
+            return retorno;
         }
 
 
@@ -364,23 +373,28 @@ namespace PDFParser
                 if (!EsLineaEnBlanco(todasLasLineas[lineaEspecifica]))
                 {
                     transaccionParseada = ParsearUnaTransaccionMorgan(todasLasLineas, lineaEspecifica);
-                    retorno += transaccionParseada + "\r\n";
+                    retorno += transaccionParseada + ",\r\n";
                 }
                 lineaEspecifica += 2;
             }
+            #region TURBIO
+            //para que la ultima transaccion no tenga la comita "," en offside al final. 
+            retorno = retorno.Remove(retorno.Length-3);
+            retorno += "\r\n";
+            #endregion
             return retorno;
         }
 
         private static string ProcesarTxtPagesMorganStanley(string[] paginas)
         {
-            string retorno = "{ \r\n\"PDF\":\r\n";
+            string retorno = "{ \r\n\"PDF\":\r\n{\r\n\"Transacciones\":[\r\n";
             for (int page = 1; page <= paginas.Length - 1; page++)
             {
                 retorno += ParsearUnaPaginaTxtMorganStanley(paginas, page);
             }
+            retorno += "]\r\n    }\r\n}";
             return retorno;
         }
-
         #endregion
 
 
