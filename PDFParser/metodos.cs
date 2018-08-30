@@ -418,23 +418,23 @@ namespace PDFParser
         /// <summary> 
         /// Dado un path hacia el archivo PDF, crea un txt con estilo JSON en la direccion especificada
         /// </summary>
-        public static void ProcesarPDFDevuelveArchivo(string filePath, string outputFilePath)
-        {
-            string[] paginas = ArrayPerPdfPage(filePath);
-            if (PershingOMorgan(filePath) == "P")
-            {
-                using (StreamWriter sw = File.CreateText(outputFilePath))
-                {
-                    sw.Write(ProcesarTxtPagesPershing(paginas));
-                }
-            }
-            else if (PershingOMorgan(filePath) == "M")
-            {
-                using (StreamWriter sw = File.CreateText(outputFilePath))
-                {
-                    sw.Write(ProcesarTxtPagesMorganStanley(paginas));
-                }
-            }
-        }
+        //public static void ProcesarPDFDevuelveArchivo(string filePath, string outputFilePath)
+        //{
+        //    string[] paginas = ArrayPerPdfPage(filePath);
+        //    if (PershingOMorgan(filePath) == "P")
+        //    {
+        //        using (StreamWriter sw = File.CreateText(outputFilePath))
+        //        {
+        //            sw.Write(ProcesarTxtPagesPershing(paginas));
+        //        }
+        //    }
+        //    else if (PershingOMorgan(filePath) == "M")
+        //    {
+        //        using (StreamWriter sw = File.CreateText(outputFilePath))
+        //        {
+        //            sw.Write(ProcesarTxtPagesMorganStanley(paginas));
+        //        }
+        //    }
+        //}
     }
 }
