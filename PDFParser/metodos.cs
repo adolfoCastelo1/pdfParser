@@ -342,11 +342,9 @@ namespace PDFParser
                     lineaEspecifica += 1;
                 }
             }
-            #region TURBIO
             //para que el ultimo interes no tenga la comita "," en offside al final. 
             retorno = retorno.Remove(retorno.Length - 3);
             retorno += "\r\n";
-            #endregion
             return retorno;
         }
 
@@ -378,11 +376,9 @@ namespace PDFParser
                 }
                 lineaEspecifica += 2;
             }
-            #region TURBIO
             //para que la ultima transaccion no tenga la comita "," en offside al final. 
             retorno = retorno.Remove(retorno.Length-3);
             retorno += "\r\n";
-            #endregion
             return retorno;
         }
 
