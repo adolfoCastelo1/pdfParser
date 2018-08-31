@@ -133,6 +133,28 @@ namespace PDFParser
                 return s;
             }
         }
+        
+        ///<summary>Se encarga de decidir si la linea en cuestion es un interes (o sea, son dos o mas lineas continuas con datos para procesar)
+        ///o si es un total verficador de los del final del documento. </summary>
+        private static bool EsInteres(string[] todasLasLineas, int lineaEspecifica)
+        {
+            string account = ObtenerAccountDeEsaLineaPershing(todasLasLineas[lineaEspecifica]);
+            if (account == "TOTALS")
+            {
+                return false;
+            }
+            return true;
+        }
+
+        private static string ProcesarTotalesFinales(string[] todasLasLineas, int lineaEspecifica)
+        {
+            string retorno = "";
+            //si no es un interes, entonces tengo que fijarme cual total es, porque solo quiero el total marcado con "ALL"
+            //si no es el total marcado con "all", entonces salto esa linea, y salto la siguiente en blanco, y repito. 
+
+            //appendo al string "retorno" el total "ALL" en cuestion. 
+            return retorno;
+        }
 
 
         private static string ParsearUnInteresPershing(string[] todasLasLineas, ref int lineaEspecifica)

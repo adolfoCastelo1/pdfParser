@@ -1,0 +1,33 @@
+[1mdiff --git a/PDFParser/metodos.cs b/PDFParser/metodos.cs[m
+[1mindex eda2dea..7d7e4d6 100644[m
+[1m--- a/PDFParser/metodos.cs[m
+[1m+++ b/PDFParser/metodos.cs[m
+[36m@@ -133,6 +133,28 @@[m [mnamespace PDFParser[m
+                 return s;[m
+             }[m
+         }[m
+[32m+[m[41m        [m
+[32m+[m[32m        ///<summary>Se encarga de decidir si la linea en cuestion es un interes (o sea, son dos o mas lineas continuas con datos para procesar)[m
+[32m+[m[32m        ///o si es un total verficador de los del final del documento. </summary>[m
+[32m+[m[32m        private static bool EsInteres(string[] todasLasLineas, int lineaEspecifica)[m
+[32m+[m[32m        {[m
+[32m+[m[32m            string account = ObtenerAccountDeEsaLineaPershing(todasLasLineas[lineaEspecifica]);[m
+[32m+[m[32m            if (account == "TOTALS")[m
+[32m+[m[32m            {[m
+[32m+[m[32m                return false;[m
+[32m+[m[32m            }[m
+[32m+[m[32m            return true;[m
+[32m+[m[32m        }[m
+[32m+[m
+[32m+[m[32m        private static string ProcesarTotalesFinales(string[] todasLasLineas, int lineaEspecifica)[m
+[32m+[m[32m        {[m
+[32m+[m[32m            string retorno = "";[m
+[32m+[m[32m            //si no es un interes, entonces tengo que fijarme cual total es, porque solo quiero el total marcado con "ALL"[m
+[32m+[m[32m            //si no es el total marcado con "all", entonces salto esa linea, y salto la siguiente en blanco, y repito.[m[41m [m
+[32m+[m
+[32m+[m[32m            //appendo al string "retorno" el total "ALL" en cuestion.[m[41m [m
+[32m+[m[32m            return retorno;[m
+[32m+[m[32m        }[m
+ [m
+ [m
+         private static string ParsearUnInteresPershing(string[] todasLasLineas, ref int lineaEspecifica)[m
