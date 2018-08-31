@@ -13,8 +13,49 @@ namespace PDFParser
 {
     public class Metodos
     {
+        #region Pershing structs
+        public struct PershingCuenta
+        {
+            public string account;
+            public float total;
+        }
+
+        public struct PershingInteres
+        {
+            public int ip;
+            public List<PershingCuenta> cuentas;
+            public float total;
+        }
+
+        public struct PershingPDF
+        {
+            public List<PershingInteres> intereses;
+            public float all;
+        }
+        #endregion
+
+
+        #region Morgan structs
+        public struct MorganTransaccion
+        {
+            public string account;
+            public string cusip;
+            public string settlementDate;
+            public string tradeDate;
+            public char buySell;
+            public string quantity;
+            public string grossRevenue;
+        }
+
+        public struct MorganPDF
+        {
+            public List<MorganTransaccion> transacciones;
+        }
+        #endregion
+
+
         #region Auxiliares
-        
+
         private static string[] ArrayPerPdfPage(string inputPdfPath)
         {
             PdfReader reader = new PdfReader(inputPdfPath);
@@ -32,34 +73,9 @@ namespace PDFParser
             return paginas;
         }
 
-        private static string PershingOMorgan(string filePath)
-        {
-            string text = "";
-            PdfReader reader = new PdfReader(filePath);
-            text += PdfTextExtractor.GetTextFromPage(reader, 1);
-            reader.Close();
-            string[] texto = text.Split('\n');
-            string primeraLinea = texto[0].ToString();
-            IgnorarEspaciosIniciales(ref primeraLinea);
-            string s = "";
-            int i = 0;
-            while (primeraLinea[i] != ' ')
-            {
-                s += primeraLinea[i];
-                i++;
-            }
-            if (s == "PERSHING")
-            {
-                return "P";
-            }
-            else
-            {
-                return "M";
-            }
-        }
         #endregion
 
-        #region Funciones para parsear cada transaccion
+        #region Funciones para parsear cada transaccion/interes
 
         #region Pershing
         private static string ObtenerOFFDeEsaLinea(string linea)
@@ -78,8 +94,7 @@ namespace PDFParser
             return s;
         }
 
-
-        private static string ObtenerIPDeEsaLinea(string linea)
+        private static int ObtenerIPDeEsaLinea(string linea)
         {
             linea = linea.Substring(12); //me posiciono en el dato
             IgnorarEspaciosIniciales(ref linea);
@@ -92,7 +107,8 @@ namespace PDFParser
                 i++;
                 letra = linea[i];
             }
-            return s;
+            int retorno = Convert.ToInt32(s);
+            return retorno;
         }
 
         private static string ObtenerAccountDeEsaLineaPershing(string linea)
@@ -112,12 +128,12 @@ namespace PDFParser
         }
 
 
-        private static string ObtenerNPLPartDeEsaLinea(string linea)
+        private static float ObtenerNPLPartDeEsaLinea(string linea)
         {
             string s = "";
             if (linea.Length < 93) //puede que no tenga NPL Part, segun se ve en 
             {
-                return "0";
+                return 0;
             }
             else
             {
@@ -130,10 +146,11 @@ namespace PDFParser
                     s += linea[i];
                     i++;
                 }
-                return s;
+                float retorno = Convert.ToSingle(s);
+                return retorno;
             }
         }
-        
+
         ///<summary>Se encarga de decidir si la linea en cuestion es un interes (o sea, son dos o mas lineas continuas con datos para procesar)
         ///o si es un total verficador de los del final del documento. </summary>
         private static bool EsInteres(string[] todasLasLineas, int lineaEspecifica)
@@ -146,41 +163,49 @@ namespace PDFParser
             return true;
         }
 
-        private static string ProcesarTotalesFinales(string[] todasLasLineas, int lineaEspecifica)
+        private static float ProcesarTodosLosTotalesFinales(string[] todasLasLineas, ref int lineaEspecifica)
         {
-            string retorno = "";
-            //si no es un interes, entonces tengo que fijarme cual total es, porque solo quiero el total marcado con "ALL"
-            //si no es el total marcado con "all", entonces salto esa linea, y salto la siguiente en blanco, y repito. 
-
-            //appendo al string "retorno" el total "ALL" en cuestion. 
+            while (ObtenerOFFDeEsaLinea(todasLasLineas[lineaEspecifica]) != "ALL")
+            //si no es el total marcado con "all", entonces salto esa linea, y salto tambien la siguiente porque esta en blanco, y repito.
+            {
+                lineaEspecifica += 2;
+            }
+            //ahora que sali del while, retorno su "NPL Part"
+            float retorno = ObtenerNPLPartDeEsaLinea(todasLasLineas[lineaEspecifica]);
             return retorno;
         }
 
 
-        private static string ParsearUnInteresPershing(string[] todasLasLineas, ref int lineaEspecifica)
+        private static PershingInteres ParsearUnInteresPershing(string[] todasLasLineas, ref int lineaEspecifica)
         {
             string lineaActual = todasLasLineas[lineaEspecifica];
-            string retorno = "";
+            PershingInteres interes = new PershingInteres();
+            interes.cuentas = new List<PershingCuenta>();
+            PershingCuenta cuenta;
 
-            retorno = "{\"IP\": " + ObtenerIPDeEsaLinea(lineaActual) + ", ";
-            retorno += "\"Cuentas\": [{\"Account\" : " + ObtenerOFFDeEsaLinea(lineaActual) + ObtenerAccountDeEsaLineaPershing(lineaActual) + ", ";
-            retorno += "\"Total\": " + ObtenerNPLPartDeEsaLinea(lineaActual);
+            interes.ip = ObtenerIPDeEsaLinea(lineaActual);
+            cuenta.account = ObtenerOFFDeEsaLinea(lineaActual) + ObtenerAccountDeEsaLineaPershing(lineaActual);
+            cuenta.total = ObtenerNPLPartDeEsaLinea(lineaActual);
+            interes.cuentas.Add(cuenta);
+
             lineaEspecifica++;
             lineaActual = todasLasLineas[lineaEspecifica]; //bajo una linea, para chequear si es la ultima de ese interes o -
                                                            //- hay mas cuentas relacionadas a el.
 
             while (ObtenerAccountDeEsaLineaPershing(lineaActual) != "TOTALS")
             {
-                retorno += "},  \r\n {\"Account\" : " + ObtenerOFFDeEsaLinea(lineaActual) + ObtenerAccountDeEsaLineaPershing(lineaActual) + ", ";
-                retorno += "\"Total\": " + ObtenerNPLPartDeEsaLinea(lineaActual);
+                cuenta.account = ObtenerOFFDeEsaLinea(lineaActual) + ObtenerAccountDeEsaLineaPershing(lineaActual);
+                cuenta.total = ObtenerNPLPartDeEsaLinea(lineaActual);
+                interes.cuentas.Add(cuenta);
+
                 lineaEspecifica++;
                 lineaActual = todasLasLineas[lineaEspecifica];
             }
 
-            retorno += "}], \"Total\" : " + ObtenerNPLPartDeEsaLinea(lineaActual) + "}";
+            interes.total = ObtenerNPLPartDeEsaLinea(lineaActual);
             lineaEspecifica++; //luego de cada interes, tenemos una linea en blanco, que con esto 
 
-            return retorno;
+            return interes;
         }
 
         #endregion
@@ -245,10 +270,10 @@ namespace PDFParser
             return s;
         }
 
-        private static string ObtenerBuySellDeEsaLinea(ref string line)
+        private static char ObtenerBuySellDeEsaLinea(ref string line)
         {
             IgnorarEspaciosIniciales(ref line);
-            string retorno = line[0].ToString();
+            char retorno = line[0];
             line = line.Substring(1);
             return retorno;
         }
@@ -281,7 +306,7 @@ namespace PDFParser
                 if (letra != '-') //para omitir los guioncitos molestos que aparecen al azar a veces en "Gross-Revenue"
                 {
                     s = s + letra.ToString();
-                }                
+                }
                 i++;
                 letra = line[i];
             }
@@ -291,18 +316,19 @@ namespace PDFParser
         }
 
 
-        static string ParsearUnaTransaccionMorgan(string[] todasLasLineasDeLaPagina, int initialLine)
+        static MorganTransaccion ParsearUnaTransaccionMorgan(string[] todasLasLineasDeLaPagina, int initialLine)
         {
             //cada dos filas, tenemos una transaccion. Este metodo parsea eso.
             string lineaInicial = todasLasLineasDeLaPagina[initialLine];
             string segundaLinea = todasLasLineasDeLaPagina[initialLine + 1];
-            string retorno = "{Account : " + ObtenerAccountDeEsaLinea(ref lineaInicial) + ", ";
-            retorno += "Cusip : " + ObtenerCusipDeEsaLinea(ref segundaLinea) + ", ";
-            retorno += "Settlement Date : " + ObtenerSettlementDateDeEsaLinea(ref lineaInicial) + ", ";
-            retorno += "Trade Date: " + ObtenerTradeDateDeEsaLinea(ref segundaLinea) + ", ";
-            retorno += "BuySell: " + ObtenerBuySellDeEsaLinea(ref segundaLinea) + ", ";
-            retorno += "Quantity : " + ObtenerQuantityDeEsaLinea(ref lineaInicial) + ", ";
-            retorno += "Gross Revenue : " + ObtenerGrossRevenueDeEsaLinea(ref lineaInicial) + "}";
+            MorganTransaccion retorno = new MorganTransaccion();
+            retorno.account = ObtenerAccountDeEsaLinea(ref lineaInicial);
+            retorno.cusip = ObtenerCusipDeEsaLinea(ref segundaLinea);
+            retorno.settlementDate = ObtenerSettlementDateDeEsaLinea(ref lineaInicial);
+            retorno.tradeDate = ObtenerTradeDateDeEsaLinea(ref segundaLinea);
+            retorno.buySell = ObtenerBuySellDeEsaLinea(ref segundaLinea);
+            retorno.quantity = ObtenerQuantityDeEsaLinea(ref lineaInicial);
+            retorno.grossRevenue = ObtenerGrossRevenueDeEsaLinea(ref lineaInicial);
             return retorno;
         }
         #endregion
@@ -337,126 +363,137 @@ namespace PDFParser
         #endregion
 
         #endregion
-        
+
         #region Metodos de Parseo pagina por pagina
-        
-        private static string ParsearUnaPaginaTxtPershing(string[] paginas, int pageNumber)
+
+        private static PershingPDF ParsearUnaPaginaTxtPershing(string[] paginas, int pageNumber)
         {
             string[] todasLasLineas = paginas[pageNumber].Split('\n');
             int lineaEspecifica = 6; //Las primeras 6 filas son encabezado, no datos (son el nombre del banco y de las columnas)
-            string transaccionParseada;
-            string retorno = "";
-            #region Turbio
-            //while (lineaEspecifica < todasLasLineas.Length) 
-            //El -8 es para evitar las ultimas 8 lineas especiales de totales verificadores
-            while (lineaEspecifica < todasLasLineas.Length - 8)
-            #endregion
+            PershingPDF retorno = new PershingPDF();
+            List<PershingInteres> intereses = new List<PershingInteres>();
+            PershingInteres interesParseado;
+            bool termine = false;
+            while (lineaEspecifica < todasLasLineas.Length - 1 && !termine)
             {
                 if (!EsLineaEnBlanco(todasLasLineas[lineaEspecifica]))
                 {
-                    transaccionParseada = ParsearUnInteresPershing(todasLasLineas, ref lineaEspecifica);
-                    retorno += transaccionParseada + ",\r\n";
-                    //lineaEspecifica += 2; lo cambio, esto es variable, por tanto lo maneja/incrementa el 
-                    //parser de intereses, que tiene acceso directo a los datos 
+                    if (EsInteres(todasLasLineas, lineaEspecifica))
+                    {
+                        interesParseado = ParsearUnInteresPershing(todasLasLineas, ref lineaEspecifica);
+                        intereses.Add(interesParseado);
+                        //lineaEspecifica += 2; lo cambio, esto es variable, por tanto lo maneja/incrementa el 
+                        //parser de intereses, que tiene acceso directo a los datos 
+                    }
+                    else // si no es un interes, entonces es un "total final verificador"
+                    {
+                        retorno.all = ProcesarTodosLosTotalesFinales(todasLasLineas, ref lineaEspecifica);
+                        termine = true;
+                    }
                 }
                 else
                 {
                     lineaEspecifica += 1;
                 }
             }
-            //para que el ultimo interes no tenga la comita "," en offside al final. 
-            retorno = retorno.Remove(retorno.Length - 3);
-            retorno += "\r\n";
+            retorno.intereses = intereses;
             return retorno;
         }
 
-        private static string ProcesarTxtPagesPershing(string[] paginas)
+        private static PershingPDF ProcesarTxtPagesPershing(string[] paginas)
         {
-            string retorno = "{ \r\n\"PDF\":\r\n{\r\n\"Intereses\":[\r\n";
+            PershingPDF retorno = new PershingPDF();
             for (int page = 1; page <= paginas.Length - 1; page++)
             {
-                retorno += ParsearUnaPaginaTxtPershing(paginas, page);
+                retorno = ParsearUnaPaginaTxtPershing(paginas, page);
             }
-            retorno += "]\r\n}\r\n}";
             return retorno;
         }
 
 
-        private static string ParsearUnaPaginaTxtMorganStanley(string[] paginas, int pageNumber)
+        private static List<MorganTransaccion> ParsearUnaPaginaTxtMorganStanley(string[] paginas, int pageNumber)
         {
+            List<MorganTransaccion> listaRetorno = new List<MorganTransaccion>();
             string[] todasLasLineas = paginas[pageNumber].Split('\n');
             //Las primeras 9 filas son encabezado, no datos (son el nombre del banco y de las columnas, las ignoro
             int lineaEspecifica = 9;
-            string transaccionParseada = ParsearUnaTransaccionMorgan(todasLasLineas, lineaEspecifica);
-            string retorno = "";
+            MorganTransaccion transaccionParseada = ParsearUnaTransaccionMorgan(todasLasLineas, lineaEspecifica);
+            listaRetorno.Add(transaccionParseada);
             while (lineaEspecifica < todasLasLineas.Length)
             {
                 if (!EsLineaEnBlanco(todasLasLineas[lineaEspecifica]))
                 {
                     transaccionParseada = ParsearUnaTransaccionMorgan(todasLasLineas, lineaEspecifica);
-                    retorno += transaccionParseada + ",\r\n";
+                    listaRetorno.Add(transaccionParseada);
                 }
                 lineaEspecifica += 2;
             }
-            //para que la ultima transaccion no tenga la comita "," en offside al final. 
-            retorno = retorno.Remove(retorno.Length-3);
-            retorno += "\r\n";
-            return retorno;
+            return listaRetorno;
         }
 
-        private static string ProcesarTxtPagesMorganStanley(string[] paginas)
+        private static List<MorganTransaccion> ProcesarTxtPagesMorganStanley(string[] paginas)
         {
-            string retorno = "{ \r\n\"PDF\":\r\n{\r\n\"Transacciones\":[\r\n";
+            List<MorganTransaccion> retorno = new List<MorganTransaccion>();
             for (int page = 1; page <= paginas.Length - 1; page++)
             {
-                retorno += ParsearUnaPaginaTxtMorganStanley(paginas, page);
+                retorno.Concat(ParsearUnaPaginaTxtMorganStanley(paginas, page));
             }
-            retorno += "]\r\n    }\r\n}";
             return retorno;
         }
         #endregion
 
-        /// <summary> 
-        /// Dado un path hacia el archivo PDF, devuelve un string con estilo JSON
-        /// </summary>
-        /// <returns>string PDF</returns>
-        public static string ProcesarPDF(string filePath)
+        public static MorganPDF ProcesarPDFMorgan(string filePath)
         {
             string[] paginas = ArrayPerPdfPage(filePath);
-            if (PershingOMorgan(filePath) == "P")
+            List<MorganTransaccion> listaTransacciones = ProcesarTxtPagesMorganStanley(paginas);
+            MorganPDF retorno = new MorganPDF();
+            retorno.transacciones = listaTransacciones;
+            return retorno;
+        }
+
+
+        public static PershingPDF ProcesarPDFPershing(string filePath)
+        {
+            string[] paginas = ArrayPerPdfPage(filePath);
+            return ProcesarTxtPagesPershing(paginas);
+        }
+
+
+        #region Developer tools
+        public static void PDFDeveloperFileMorgan(MorganPDF morgan, string filePath)
+        {
+            string retorno = "";
+            foreach (MorganTransaccion mt in morgan.transacciones)
             {
-                return ProcesarTxtPagesPershing(paginas);
+                retorno += "{ Account: " + mt.account + " Cusip: " + mt.cusip + " Settlement Date: " + mt.settlementDate + " Trade Date: " + mt.tradeDate + " BuySell: " + mt.buySell + " quantity: " + mt.quantity + " grossRevenue: " + mt.grossRevenue + "}\r\n";
+
             }
-            else if (PershingOMorgan(filePath) == "M")
+            using (StreamWriter sw = File.CreateText(filePath))
             {
-                return ProcesarTxtPagesMorganStanley(paginas);
-            }
-            else
-            {
-                return "ERROR 404: UN GATITO MORIRA POR ESTO";
+                sw.Write(retorno);
             }
         }
 
-        /// <summary> 
-        /// Dado un path hacia el archivo PDF, crea un txt con estilo JSON en la direccion especificada
-        /// </summary>
-        //public static void ProcesarPDFDevuelveArchivo(string filePath, string outputFilePath)
-        //{
-        //    string[] paginas = ArrayPerPdfPage(filePath);
-        //    if (PershingOMorgan(filePath) == "P")
-        //    {
-        //        using (StreamWriter sw = File.CreateText(outputFilePath))
-        //        {
-        //            sw.Write(ProcesarTxtPagesPershing(paginas));
-        //        }
-        //    }
-        //    else if (PershingOMorgan(filePath) == "M")
-        //    {
-        //        using (StreamWriter sw = File.CreateText(outputFilePath))
-        //        {
-        //            sw.Write(ProcesarTxtPagesMorganStanley(paginas));
-        //        }
-        //    }
-        //}
+        public static void PDFDeveloperFilePershing(PershingPDF pershing, string filePath)
+        {
+            string retorno = "";
+            foreach (PershingInteres pi in pershing.intereses)
+            {
+                retorno += "{ IP: " + pi.ip + " Cuentas: [ \r\n";
+                foreach (PershingCuenta pc in pi.cuentas)
+                {
+                    retorno += " cuenta: " + pc.account;
+                    retorno += " total: " + pc.total;
+                }
+                retorno += "]\r\nTotal: " + pi.total + " }\r\n";
+
+            }
+            retorno += "All: " + pershing.all + "\r\n}";
+            using (StreamWriter sw = File.CreateText(filePath))
+            {
+                sw.Write(retorno);
+            }
+        }
+        #endregion
     }
 }
