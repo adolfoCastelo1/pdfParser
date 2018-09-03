@@ -436,7 +436,7 @@ namespace PDFParser
             List<MorganTransaccion> retorno = new List<MorganTransaccion>();
             for (int page = 1; page <= paginas.Length - 1; page++)
             {
-                retorno = retorno.Concat(ParsearUnaPaginaTxtMorganStanley(paginas, page)).ToList();
+                retorno  = retorno.Concat(ParsearUnaPaginaTxtMorganStanley(paginas, page)).ToList();
             }
             return retorno;
         }
