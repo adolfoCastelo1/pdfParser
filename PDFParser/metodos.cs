@@ -34,7 +34,6 @@ namespace PDFParser
         }
         #endregion
 
-
         #region Morgan structs
         public struct MorganTransaccion
         {
@@ -74,6 +73,7 @@ namespace PDFParser
         }
 
         #endregion
+
 
         #region Funciones para parsear cada transaccion/interes
 
@@ -364,6 +364,7 @@ namespace PDFParser
 
         #endregion
 
+
         #region Metodos de Parseo pagina por pagina
 
         private static PershingPDF ParsearUnaPaginaTxtPershing(string[] paginas, int pageNumber)
@@ -442,6 +443,7 @@ namespace PDFParser
         }
         #endregion
 
+
         public static MorganPDF ProcesarPDFMorgan(string filePath)
         {
             string[] paginas = ArrayPerPdfPage(filePath);
@@ -451,49 +453,11 @@ namespace PDFParser
             return retorno;
         }
 
-
         public static PershingPDF ProcesarPDFPershing(string filePath)
         {
             string[] paginas = ArrayPerPdfPage(filePath);
             return ProcesarTxtPagesPershing(paginas);
         }
 
-
-        #region Developer tools
-        public static void PDFDeveloperFileMorgan(MorganPDF morgan, string filePath)
-        {
-            string retorno = "";
-            foreach (MorganTransaccion mt in morgan.transacciones)
-            {
-                retorno += "{ Account: " + mt.account + " Cusip: " + mt.cusip + " Settlement Date: " + mt.settlementDate + " Trade Date: " + mt.tradeDate + " BuySell: " + mt.buySell + " quantity: " + mt.quantity + " grossRevenue: " + mt.grossRevenue + "}\r\n";
-
-            }
-            using (StreamWriter sw = File.CreateText(filePath))
-            {
-                sw.Write(retorno);
-            }
-        }
-
-        public static void PDFDeveloperFilePershing(PershingPDF pershing, string filePath)
-        {
-            string retorno = "";
-            foreach (PershingInteres pi in pershing.intereses)
-            {
-                retorno += "{ IP: " + pi.ip + " Cuentas: [ \r\n";
-                foreach (PershingCuenta pc in pi.cuentas)
-                {
-                    retorno += " cuenta: " + pc.account;
-                    retorno += " total: " + pc.total;
-                }
-                retorno += "]\r\nTotal: " + pi.total + " }\r\n";
-
-            }
-            retorno += "All: " + pershing.all + "\r\n}";
-            using (StreamWriter sw = File.CreateText(filePath))
-            {
-                sw.Write(retorno);
-            }
-        }
-        #endregion
     }
 }
