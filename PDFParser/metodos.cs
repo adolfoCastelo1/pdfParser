@@ -34,7 +34,6 @@ namespace PDFParser
         }
         #endregion
 
-
         #region Morgan structs
         public struct MorganTransaccion
         {
@@ -441,6 +440,7 @@ namespace PDFParser
             return retorno;
         }
         #endregion
+
 
         public static MorganPDF ProcesarPDFMorgan(string filePath)
         {
