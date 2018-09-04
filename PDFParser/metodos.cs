@@ -27,11 +27,12 @@ namespace PDFParser
             public float total;
         }
 
-        public struct PershingPDF
+        public struct PershingPDFOrdenado
         {
             public List<PershingInteres> intereses;
             public float all;
         }
+
         #endregion
 
         #region Morgan structs
@@ -50,6 +51,29 @@ namespace PDFParser
         {
             public List<MorganTransaccion> transacciones;
         }
+        #region Nuevos structs de Morgan para devolver el PDF ordenado por account, por el issue correspondiente de github.
+        public struct MorganMovimiento
+        {
+            public string cusip;
+            public string settlementDate;
+            public string tradeDate;
+            public char buySell;
+            public string quantity;
+            public string grossRevenue;
+        }
+
+        public struct MorganCuenta
+        {
+            public string account;
+            public List<MorganMovimiento> movimientos;
+        }
+
+        public struct MorganPDFOrdenado
+        {
+            public List<MorganCuenta> cuentas;
+        }
+        #endregion
+
         #endregion
 
 
@@ -365,11 +389,11 @@ namespace PDFParser
 
         #region Metodos de Parseo pagina por pagina
 
-        private static PershingPDF ParsearUnaPaginaTxtPershing(string[] paginas, int pageNumber)
+        private static PershingPDFOrdenado ParsearUnaPaginaTxtPershing(string[] paginas, int pageNumber)
         {
             string[] todasLasLineas = paginas[pageNumber].Split('\n');
             int lineaEspecifica = 6; //Las primeras 6 filas son encabezado, no datos (son el nombre del banco y de las columnas)
-            PershingPDF retorno = new PershingPDF();
+            PershingPDFOrdenado retorno = new PershingPDFOrdenado();
             List<PershingInteres> intereses = new List<PershingInteres>();
             PershingInteres interesParseado;
             bool termine = false;
@@ -399,9 +423,9 @@ namespace PDFParser
             return retorno;
         }
 
-        private static PershingPDF ProcesarTxtPagesPershing(string[] paginas)
+        private static PershingPDFOrdenado ProcesarTxtPagesPershing(string[] paginas)
         {
-            PershingPDF retorno = new PershingPDF();
+            PershingPDFOrdenado retorno = new PershingPDFOrdenado();
             for (int page = 1; page <= paginas.Length - 1; page++)
             {
                 retorno = ParsearUnaPaginaTxtPershing(paginas, page);
@@ -435,14 +459,14 @@ namespace PDFParser
             List<MorganTransaccion> retorno = new List<MorganTransaccion>();
             for (int page = 1; page <= paginas.Length - 1; page++)
             {
-                retorno  = retorno.Concat(ParsearUnaPaginaTxtMorganStanley(paginas, page)).ToList();
+                retorno = retorno.Concat(ParsearUnaPaginaTxtMorganStanley(paginas, page)).ToList();
             }
             return retorno;
         }
         #endregion
 
 
-        public static MorganPDF ProcesarPDFMorgan(string filePath)
+        public static MorganPDF ParsearPDFMorgan(string filePath)
         {
             string[] paginas = ArrayPerPdfPage(filePath);
             List<MorganTransaccion> listaTransacciones = ProcesarTxtPagesMorganStanley(paginas);
@@ -451,8 +475,46 @@ namespace PDFParser
             return retorno;
         }
 
+        public static MorganPDFOrdenado ProcesarPDFMorgan(string filePath)
+        {
+            MorganPDF pdfParseado = ParsearPDFMorgan(filePath);
+            MorganPDFOrdenado pdfRetornoOrdenado = new MorganPDFOrdenado();
+            pdfRetornoOrdenado.cuentas = new List<MorganCuenta>();
 
-        public static PershingPDF ProcesarPDFPershing(string filePath)
+            //explico estos bucles horribles...
+            //1-recorro una a una las transacciones parseadas
+            //2-agarro su account, y busco cada otra transaccion que tenga el mismo account (segundo bucle)
+            //3-cuando la encuentro, copio los datos en un objeto "movimiento", lo agrego a los movimientos de esa cuenta particular
+            
+
+
+            for(int i=0; i < pdfParseado.transacciones.Count; i++)
+            {
+                MorganCuenta cuenta = new MorganCuenta();
+                cuenta.account = pdfParseado.transacciones[i].account;
+                cuenta.movimientos = new List<MorganMovimiento>();
+
+                foreach (MorganTransaccion morganTransaccion in pdfParseado.transacciones.Where(morganTransaccion => morganTransaccion.account == pdfParseado.transacciones[i].account))
+                {
+                    MorganMovimiento movimiento = new MorganMovimiento();
+                    movimiento.cusip = morganTransaccion.cusip;
+                    movimiento.tradeDate = morganTransaccion.tradeDate;
+                    movimiento.settlementDate = morganTransaccion.settlementDate;
+                    movimiento.buySell = morganTransaccion.buySell;
+                    movimiento.quantity = morganTransaccion.quantity;
+                    movimiento.grossRevenue = morganTransaccion.grossRevenue;
+
+                    cuenta.movimientos.Add(movimiento);
+                }
+
+                pdfParseado.transacciones.RemoveAll(transaccion => transaccion.account == pdfParseado.transacciones[i].account);
+                pdfRetornoOrdenado.cuentas.Add(cuenta);
+            }
+
+            return pdfRetornoOrdenado;
+        }
+
+        public static PershingPDFOrdenado ProcesarPDFPershing(string filePath)
         {
             string[] paginas = ArrayPerPdfPage(filePath);
             return ProcesarTxtPagesPershing(paginas);
@@ -460,21 +522,27 @@ namespace PDFParser
 
 
         #region Developer tools
-        public static void PDFDeveloperFileMorgan(MorganPDF morgan, string filePath)
+        public static void PDFDeveloperFileMorgan(MorganPDFOrdenado morgan, string outputTxtFilePath)
         {
             string retorno = "";
-            foreach (MorganTransaccion mt in morgan.transacciones)
+            foreach (MorganCuenta mc in morgan.cuentas)
             {
-                retorno += "{ Account: " + mt.account + " Cusip: " + mt.cusip + " Settlement Date: " + mt.settlementDate + " Trade Date: " + mt.tradeDate + " BuySell: " + mt.buySell + " quantity: " + mt.quantity + " grossRevenue: " + mt.grossRevenue + "}\r\n";
+                retorno += "{ Account: " + mc.account;
+
+                foreach (MorganMovimiento mm in mc.movimientos)
+                {
+                    retorno += "\r\nMovimiento: [" + "Cusip: " + mm.cusip + " Settlement Date: " + mm.settlementDate + " Trade Date: " + mm.tradeDate + " BuySell: " + mm.buySell + " quantity: " + mm.quantity + " grossRevenue: " + mm.grossRevenue + "]\r\n";
+                }
+                retorno += "}\r\n";
 
             }
-            using (StreamWriter sw = File.CreateText(filePath))
+            using (StreamWriter sw = File.CreateText(outputTxtFilePath))
             {
                 sw.Write(retorno);
             }
         }
 
-        public static void PDFDeveloperFilePershing(PershingPDF pershing, string filePath)
+        public static void PDFDeveloperFilePershing(PershingPDFOrdenado pershing, string outputTxtFilePath)
         {
             string retorno = "";
             foreach (PershingInteres pi in pershing.intereses)
@@ -489,7 +557,7 @@ namespace PDFParser
 
             }
             retorno += "All: " + pershing.all + "\r\n}";
-            using (StreamWriter sw = File.CreateText(filePath))
+            using (StreamWriter sw = File.CreateText(outputTxtFilePath))
             {
                 sw.Write(retorno);
             }
