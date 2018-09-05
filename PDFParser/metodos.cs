@@ -442,6 +442,7 @@ namespace PDFParser
             int lineaEspecifica = 9;
             MorganTransaccion transaccionParseada = ParsearUnaTransaccionMorgan(todasLasLineas, lineaEspecifica);
             listaRetorno.Add(transaccionParseada);
+            lineaEspecifica += 2;
             while (lineaEspecifica < todasLasLineas.Length)
             {
                 if (!EsLineaEnBlanco(todasLasLineas[lineaEspecifica]))
