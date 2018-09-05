@@ -524,48 +524,5 @@ namespace PDFParser
             return ProcesarTxtPagesPershing(paginas);
         }
 
-
-        #region Developer tools
-        public static void PDFDeveloperFileMorgan(MorganPDFOrdenado morgan, string outputTxtFilePath)
-        {
-            string retorno = "";
-            foreach (MorganCuenta mc in morgan.cuentas)
-            {
-                retorno += "{ Account: " + mc.account;
-
-                foreach (MorganMovimiento mm in mc.movimientos)
-                {
-                    retorno += "\r\nMovimiento: [" + "Cusip: " + mm.cusip + " Settlement Date: " + mm.settlementDate + " Trade Date: " + mm.tradeDate + " BuySell: " + mm.buySell + " quantity: " + mm.quantity + " grossRevenue: " + mm.grossRevenue + "]\r\n";
-                }
-                retorno += "}\r\n";
-
-            }
-            using (StreamWriter sw = File.CreateText(outputTxtFilePath))
-            {
-                sw.Write(retorno);
-            }
-        }
-
-        public static void PDFDeveloperFilePershing(PershingPDFOrdenado pershing, string outputTxtFilePath)
-        {
-            string retorno = "";
-            foreach (PershingInteres pi in pershing.intereses)
-            {
-                retorno += "{ IP: " + pi.ip + " Cuentas: [ \r\n";
-                foreach (PershingCuenta pc in pi.cuentas)
-                {
-                    retorno += " cuenta: " + pc.account;
-                    retorno += " total: " + pc.total;
-                }
-                retorno += "]\r\nTotal: " + pi.total + " }\r\n";
-
-            }
-            retorno += "All: " + pershing.all + "\r\n}";
-            using (StreamWriter sw = File.CreateText(outputTxtFilePath))
-            {
-                sw.Write(retorno);
-            }
-        }
-        #endregion
     }
 }
