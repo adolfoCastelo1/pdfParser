@@ -482,33 +482,36 @@ namespace PDFParser
             MorganPDFOrdenado pdfRetornoOrdenado = new MorganPDFOrdenado();
             pdfRetornoOrdenado.cuentas = new List<MorganCuenta>();
 
-            //explico estos bucles horribles...
-            //1-recorro una a una las transacciones parseadas
-            //2-agarro su account, y busco cada otra transaccion que tenga el mismo account (segundo bucle)
-            //3-cuando la encuentro, copio los datos en un objeto "movimiento", lo agrego a los movimientos de esa cuenta particular
-            
-
-
-            for(int i=0; i < pdfParseado.transacciones.Count; i++)
+            while (pdfParseado.transacciones.Count > 0) //mientras tengo transacciones por procesar
             {
                 MorganCuenta cuenta = new MorganCuenta();
-                cuenta.account = pdfParseado.transacciones[i].account;
+                cuenta.account = pdfParseado.transacciones[0].account;
                 cuenta.movimientos = new List<MorganMovimiento>();
 
-                foreach (MorganTransaccion morganTransaccion in pdfParseado.transacciones.Where(morganTransaccion => morganTransaccion.account == pdfParseado.transacciones[i].account))
-                {
-                    MorganMovimiento movimiento = new MorganMovimiento();
-                    movimiento.cusip = morganTransaccion.cusip;
-                    movimiento.tradeDate = morganTransaccion.tradeDate;
-                    movimiento.settlementDate = morganTransaccion.settlementDate;
-                    movimiento.buySell = morganTransaccion.buySell;
-                    movimiento.quantity = morganTransaccion.quantity;
-                    movimiento.grossRevenue = morganTransaccion.grossRevenue;
+                List<MorganTransaccion> transaccionesAEliminar = new List<MorganTransaccion>();
 
-                    cuenta.movimientos.Add(movimiento);
+                foreach (MorganTransaccion morganTransaccion in pdfParseado.transacciones)
+                {
+                    if (morganTransaccion.account == pdfParseado.transacciones[0].account)
+                    {
+                        MorganMovimiento movimiento = new MorganMovimiento();
+                        movimiento.cusip = morganTransaccion.cusip;
+                        movimiento.tradeDate = morganTransaccion.tradeDate;
+                        movimiento.settlementDate = morganTransaccion.settlementDate;
+                        movimiento.buySell = morganTransaccion.buySell;
+                        movimiento.quantity = morganTransaccion.quantity;
+                        movimiento.grossRevenue = morganTransaccion.grossRevenue;
+
+                        transaccionesAEliminar.Add(morganTransaccion);
+                        cuenta.movimientos.Add(movimiento);
+                    }
                 }
 
-                pdfParseado.transacciones.RemoveAll(transaccion => transaccion.account == pdfParseado.transacciones[i].account);
+                foreach (MorganTransaccion mt in transaccionesAEliminar)
+                {
+                    pdfParseado.transacciones.Remove(mt);
+                }
+                                
                 pdfRetornoOrdenado.cuentas.Add(cuenta);
             }
 
