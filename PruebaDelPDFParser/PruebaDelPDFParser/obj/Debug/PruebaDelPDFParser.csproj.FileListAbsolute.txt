@@ -1,0 +1,9 @@
+c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\PruebaDelPDFParser.exe.config
+c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\PruebaDelPDFParser.exe
+c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\PruebaDelPDFParser.pdb
+c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\PDFParser.dll
+c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\itextsharp.dll
+c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\PDFParser.pdb
+c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\obj\Debug\PruebaDelPDFParser.csprojResolveAssemblyReference.cache
+c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\obj\Debug\PruebaDelPDFParser.exe
+c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\obj\Debug\PruebaDelPDFParser.pdb
