@@ -1,0 +1,11 @@
+{ IP: 900 Cuentas: [ 
+ cuenta: NDG001230 total: 0]
+Total: 0 }
+{ IP: 933 Cuentas: [ 
+ cuenta: NDG001164 total: 11.18]
+Total: 11.18 }
+{ IP: 959 Cuentas: [ 
+ cuenta: NDG001222 total: 35.54]
+Total: 35.54 }
+All: 46.72
+}

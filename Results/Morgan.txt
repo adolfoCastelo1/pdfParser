@@ -1,0 +1,2582 @@
+{ Account: 658-087017
+Movimiento: [Cusip: L4061E104 Settlement Date: 04/02/2018 Trade Date: 03/29/2018 BuySell: B quantity: 4,025 grossRevenue: 112.49]
+
+Movimiento: [Cusip: L63667106 Settlement Date: 04/02/2018 Trade Date: 03/29/2018 BuySell: B quantity: 1,958 grossRevenue: 162.49]
+
+Movimiento: [Cusip: G7112M468 Settlement Date: 04/03/2018 Trade Date: 03/29/2018 BuySell: B quantity: 2,549 grossRevenue: 174.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 0.13]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 0.15]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 32.98]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 35.36]
+}
+{ Account: 658-031178
+Movimiento: [Cusip: L4061E104 Settlement Date: 04/03/2018 Trade Date: 03/15/2018 BuySell: B quantity: 3,375 grossRevenue: 999.85]
+
+Movimiento: [Cusip: L4061E104 Settlement Date: 04/03/2018 Trade Date: 03/15/2018 BuySell: B quantity: 3,518 grossRevenue: 999.85]
+
+Movimiento: [Cusip: L4061E104 Settlement Date: 04/04/2018 Trade Date: 03/15/2018 BuySell: B quantity: 3,518 grossRevenue: 999.85]
+
+Movimiento: [Cusip: L4061E104 Settlement Date: 04/04/2018 Trade Date: 03/15/2018 BuySell: B quantity: 3,518 grossRevenue: 199.97]
+
+Movimiento: [Cusip: L63667106 Settlement Date: 04/09/2018 Trade Date: 03/15/2018 BuySell: B quantity: 1,137 grossRevenue: 999.85]
+
+Movimiento: [Cusip: L63667106 Settlement Date: 04/09/2018 Trade Date: 03/15/2018 BuySell: B quantity: 1,184 grossRevenue: 199.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 6.61]
+
+Movimiento: [Cusip: G7112M468 Settlement Date: 04/18/2018 Trade Date: 04/16/2018 BuySell: B quantity: 3,639 grossRevenue: 249.97]
+}
+{ Account: 658-038619
+Movimiento: [Cusip: 912796QA0 Settlement Date: 04/03/2018 Trade Date: 04/03/2018 BuySell: B quantity: 200,000 grossRevenue: 123.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 9.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 59.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 37.26]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 16.31]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 59.34]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 30.78]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 5.35]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 3.75]
+
+Movimiento: [Cusip: 225990SX9 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: B quantity: 30,000 grossRevenue: 225.00]
+
+Movimiento: [Cusip: 912796QA0 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 60,000 grossRevenue: 36.90]
+
+Movimiento: [Cusip: G6S475210 Settlement Date: 04/27/2018 Trade Date: 04/26/2018 BuySell: B quantity: 37,728 grossRevenue: 124.99]
+
+Movimiento: [Cusip: 912796QA0 Settlement Date: 04/27/2018 Trade Date: 04/26/2018 BuySell: S quantity: 60,000 grossRevenue: 36.90]
+
+Movimiento: [Cusip: 912796QA0 Settlement Date: 04/27/2018 Trade Date: 04/26/2018 BuySell: S quantity: 60,000 grossRevenue: 36.90]
+}
+{ Account: 658-038841
+Movimiento: [Cusip: 88160R101 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: B quantity: 70 grossRevenue: 62.87]
+
+Movimiento: [Cusip: 88160R101 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 70 grossRevenue: 62.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 1.43]
+}
+{ Account: 658-089961
+Movimiento: [Cusip: 912796PZ6 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: B quantity: 180,000 grossRevenue: 110.70]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 99.59]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 55.44]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 49.75]
+}
+{ Account: 658-087861
+Movimiento: [Cusip: P9767HCU1 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 5,000 grossRevenue: 136.69]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 37.16]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 13.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 22.20]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 38.56]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 18.45]
+
+Movimiento: [Cusip: G6S475210 Settlement Date: 04/27/2018 Trade Date: 04/26/2018 BuySell: B quantity: 36,401 grossRevenue: 999.88]
+}
+{ Account: 658-033550
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 1.48]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 0.22]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 10.96]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 7.74]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 3.84]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 38.17]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 24.30]
+
+Movimiento: [Cusip: G7112M468 Settlement Date: 04/20/2018 Trade Date: 04/18/2018 BuySell: B quantity: 3,650 grossRevenue: 249.97]
+}
+{ Account: 658-041051
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 55.27]
+
+Movimiento: [Cusip: 912796PE3 Settlement Date: 04/11/2018 Trade Date: 04/11/2018 BuySell: B quantity: 200,000 grossRevenue: 120.00]
+
+Movimiento: [Cusip: 912796PX1 Settlement Date: 04/11/2018 Trade Date: 04/11/2018 BuySell: B quantity: 200,000 grossRevenue: 245.00]
+
+Movimiento: [Cusip: 912796QA0 Settlement Date: 04/11/2018 Trade Date: 04/11/2018 BuySell: B quantity: 200,000 grossRevenue: 123.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 80.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 106.83]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 33.07]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 90.35]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 186.23]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 44.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 87.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 15.42]
+
+Movimiento: [Cusip: 225990SX9 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: B quantity: 100,000 grossRevenue: 750.00]
+
+Movimiento: [Cusip: G6S475210 Settlement Date: 04/30/2018 Trade Date: 04/27/2018 BuySell: B quantity: 75,598 grossRevenue: 249.99]
+}
+{ Account: 658-033547
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 10.96]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 7.74]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 38.17]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 24.30]
+}
+{ Account: 658-062441
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 944.90]
+}
+{ Account: 658-062590
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 933.87]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 437.35]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 439.18]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 538.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 72.89]
+}
+{ Account: 658-062593
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 1,562.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 614.07]
+}
+{ Account: 658-062721
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 1,563.68]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 1,955.95]
+}
+{ Account: 658-063498
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 98.15]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 97.72]
+}
+{ Account: 658-088375
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 152.63]
+}
+{ Account: 658-090924
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 30.08]
+}
+{ Account: 658-091154
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 23.24]
+}
+{ Account: 658-000000
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 7.97]
+}
+{ Account: 658-001192
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+}
+{ Account: 658-050293
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 191.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 39.57]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 64.14]
+}
+{ Account: 658-054964
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 18.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 54.61]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 18.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 55.75]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 5.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 14.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 59.28]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 110.27]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 53.59]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 34.57]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 71.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 23.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 14.58]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 32.11]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 8.06]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 18.61]
+}
+{ Account: 658-059879
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 18.28]
+
+Movimiento: [Cusip: P8S090HT6 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: B quantity: 25,000 grossRevenue: 187.50]
+}
+{ Account: 658-060985
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 91912E105 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: B quantity: 5,000 grossRevenue: 175.00]
+}
+{ Account: 658-063643
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+}
+{ Account: 658-063951
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+}
+{ Account: 658-064090
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+}
+{ Account: 658-087714
+Movimiento: [Cusip: 000DWR001 Settlement Date: 04/02/2018 Trade Date: 04/02/2018 BuySell: S quantity: 612,014 grossRevenue: 0.64]
+}
+{ Account: 658-110553
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 46.08]
+
+Movimiento: [Cusip: 88031M109 Settlement Date: 04/11/2018 Trade Date: 04/11/2018 BuySell: S quantity: 2,000 grossRevenue: 371.00]
+
+Movimiento: [Cusip: 37827X100 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: B quantity: 7,500 grossRevenue: 397.50]
+}
+{ Account: 658-111883
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+}
+{ Account: 658-111934
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 134.51]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 174.26]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 70.66]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 188.73]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 103.63]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 77.44]
+}
+{ Account: 658-113565
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 3.39]
+
+Movimiento: [Cusip: 833990HT4 Settlement Date: 04/30/2018 Trade Date: 04/30/2018 BuySell: B quantity: 500,000 grossRevenue: 5,000.00]
+}
+{ Account: 658-114600
+Movimiento: [Cusip: 464288760 Settlement Date: 04/02/2018 Trade Date: 04/02/2018 BuySell: S quantity: 120 grossRevenue: 87.12]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 137.75]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 124.96]
+}
+{ Account: 658-116284
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 15.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 42.26]
+}
+{ Account: 658-119580
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 140.14]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 58.59]
+}
+{ Account: 658-122083
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+}
+{ Account: 658-122656
+Movimiento: [Cusip: 0000E7T9X Settlement Date: 04/02/2018 Trade Date: 04/02/2018 BuySell: S quantity: 4 grossRevenue: 50.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 158.48]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 31.05]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 24.60]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 34.96]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 134.86]
+}
+{ Account: 658-127290
+Movimiento: [Cusip: 000MGNCRD Settlement Date: 04/02/2018 Trade Date: 03/30/2018 BuySell: S quantity: 0 grossRevenue: 0.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 132.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 50.82]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 83.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 73.87]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 91.22]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 48.82]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 58.31]
+}
+{ Account: 658-049513
+Movimiento: [Cusip: P989MJAU5 Settlement Date: 04/03/2018 Trade Date: 04/03/2018 BuySell: S quantity: 30,000 grossRevenue: 38.70]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 105.80]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 100.44]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 67.27]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 68.39]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 30.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 113.96]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 39.88]
+}
+{ Account: 658-001224
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 56.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 245.74]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 258.84]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 259.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 210.43]
+}
+{ Account: 658-001803
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 378.17]
+}
+{ Account: 658-052642
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 13.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 7.98]
+}
+{ Account: 658-053405
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 107.59]
+
+Movimiento: [Cusip: L00218237 Settlement Date: 04/10/2018 Trade Date: 04/09/2018 BuySell: B quantity: 2,708 grossRevenue: 249.97]
+
+Movimiento: [Cusip: L03211619 Settlement Date: 04/11/2018 Trade Date: 04/09/2018 BuySell: B quantity: 2,802 grossRevenue: 249.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 63.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 47.46]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 77.48]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 123.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 69.79]
+}
+{ Account: 658-054401
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 15.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 12.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 52.81]
+}
+{ Account: 658-054523
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 4.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 139.23]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 212.00]
+
+Movimiento: [Cusip: L5529V182 Settlement Date: 04/25/2018 Trade Date: 04/24/2018 BuySell: B quantity: 2,738 grossRevenue: 249.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 91.88]
+}
+{ Account: 658-054554
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 208.94]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 204.96]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 55.62]
+}
+{ Account: 658-054875
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 36.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 30.15]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 14.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 50.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 66.72]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 51.72]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 63.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 42.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 45.74]
+}
+{ Account: 658-055055
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 21.06]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 217.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 147.81]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 205.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 237.78]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 224.85]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 180.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 206.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 22.17]
+}
+{ Account: 658-056020
+Movimiento: [Cusip: 33733E302 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: B quantity: 1,000 grossRevenue: 441.00]
+
+Movimiento: [Cusip: 58733R102 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: B quantity: 350 grossRevenue: 464.56]
+
+Movimiento: [Cusip: 73935A104 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: B quantity: 2,000 grossRevenue: 1,173.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 735.03]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 295.01]
+
+Movimiento: [Cusip: 464286400 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: B quantity: 2,000 grossRevenue: 327.00]
+
+Movimiento: [Cusip: 73935A104 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: B quantity: 2,000 grossRevenue: 1,253.42]
+
+Movimiento: [Cusip: 225990SX9 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: B quantity: 100,000 grossRevenue: 750.00]
+}
+{ Account: 658-056132
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 83.01]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 8.13]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 20.74]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 12.56]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 47.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 307.25]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 95.49]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 42.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 401.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 27.17]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 72.56]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 28.02]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 33.19]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 123.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 78.07]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 123.54]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 78.72]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 45.03]
+}
+{ Account: 658-057410
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 54.18]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 32.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 61.62]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 79.13]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 34.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 67.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 103.72]
+}
+{ Account: 658-057695
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 3.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 27.87]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 27.86]
+}
+{ Account: 658-057696
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 3.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 28.13]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 27.86]
+}
+{ Account: 658-059227
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 146.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 37.44]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 76.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 21.20]
+}
+{ Account: 658-059581
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 76.71]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 30.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 36.77]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 81.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 35.44]
+}
+{ Account: 658-061502
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 7.71]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 15.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 1.63]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 7.51]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 107.81]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 5.65]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 13.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 23.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 22.04]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 18.69]
+}
+{ Account: 658-065553
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 71.39]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 34.09]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 28.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 62.24]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 71.63]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 39.05]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 78.18]
+}
+{ Account: 658-065982
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 109.06]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 23.05]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 42.23]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 105.16]
+}
+{ Account: 658-084782
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 28.83]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 17.69]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 91.23]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 12.90]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 129.70]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 9.42]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 37.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 8.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 34.92]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 35.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 37.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 87.48]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 42.92]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 14.44]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 49.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 47.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 58.62]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 47.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 19.05]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 15.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 54.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 16.31]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 74.25]
+}
+{ Account: 658-085035
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 28.83]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 17.71]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 12.96]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 99.65]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 9.43]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 37.48]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 8.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 34.92]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 35.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 34.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 72.87]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 115.99]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 45.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 42.92]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 14.44]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 49.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 58.63]
+
+Movimiento: [Cusip: N54468AF5 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: B quantity: 200,000 grossRevenue: 625.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 25.12]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 22.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 15.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 54.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 16.32]
+
+Movimiento: [Cusip: L6365R558 Settlement Date: 04/25/2018 Trade Date: 04/24/2018 BuySell: B quantity: 3,690 grossRevenue: 249.97]
+}
+{ Account: 658-086966
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 10.90]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 29.75]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 13.25]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 17.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 23.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 39.78]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 44.71]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 14.22]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 14.92]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 93.14]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 39.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 25.98]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 87.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 14.30]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 51.60]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 59.40]
+}
+{ Account: 658-087228
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 144.74]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 38.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 75.20]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 23.97]
+}
+{ Account: 658-087265
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 57.49]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 65.59]
+
+Movimiento: [Cusip: 64110L106 Settlement Date: 04/17/2018 Trade Date: 04/17/2018 BuySell: S quantity: 43 grossRevenue: 71.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 36.69]
+
+Movimiento: [Cusip: 539830109 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: B quantity: 90 grossRevenue: 175.21]
+}
+{ Account: 658-087751
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 34.62]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 62.69]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 235.49]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 35.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 79.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 261.70]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 46.94]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 69.27]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 140.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 68.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 182.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 68.07]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 163.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 46.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 51.39]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 12.57]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 77.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 66.63]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 184.61]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 92.99]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 69.39]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 17.22]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 28.24]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 23.48]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 81.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 88.43]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 46.72]
+}
+{ Account: 658-089724
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 424.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 428.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 662.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 422.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 658.64]
+}
+{ Account: 658-090342
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 25.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 13.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 43.54]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 66.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 12.68]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 11.60]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 50.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 27.05]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 11.58]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 12.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 22.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 66.96]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 62.77]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 30.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 40.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 34.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 40.07]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 43.14]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 41.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 33.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 54.14]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 67.97]
+}
+{ Account: 658-110238
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 13.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 62.05]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 39.60]
+
+Movimiento: [Cusip: P989MJBG5 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: B quantity: 50,000 grossRevenue: 307.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 4.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 74.26]
+
+Movimiento: [Cusip: L00218237 Settlement Date: 04/11/2018 Trade Date: 04/10/2018 BuySell: B quantity: 1,623 grossRevenue: 149.97]
+
+Movimiento: [Cusip: L63653668 Settlement Date: 04/11/2018 Trade Date: 04/10/2018 BuySell: B quantity: 1,720 grossRevenue: 149.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 39.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 150.09]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 6.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 36.62]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 41.74]
+}
+{ Account: 658-111356
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 13.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 31.17]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 14.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 19.14]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 24.03]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 20.87]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 28.55]
+}
+{ Account: 658-112194
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 57.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 135.43]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 16.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 27.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 68.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 20.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 14.23]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 45.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 121.58]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 121.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 39.77]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 19.65]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 16.04]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 11.46]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 18.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 36.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 26.82]
+}
+{ Account: 658-112929
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 30.87]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 166.30]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 59.51]
+
+Movimiento: [Cusip: P989MJBG5 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: B quantity: 50,000 grossRevenue: 307.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 0.01]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 102.07]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 47.61]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 83.47]
+
+Movimiento: [Cusip: L00218237 Settlement Date: 04/13/2018 Trade Date: 04/12/2018 BuySell: B quantity: 2,701 grossRevenue: 249.97]
+}
+{ Account: 658-113014
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 55.99]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 15.18]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 78.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 79.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 72.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 48.46]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 67.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 100.37]
+}
+{ Account: 658-113119
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 125.65]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 58.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 74.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 35.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 60.58]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 25.11]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 11.23]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 28.69]
+}
+{ Account: 658-113284
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 29.66]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 160.58]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 205.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 160.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 208.64]
+}
+{ Account: 658-113426
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 95.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 115.03]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 43.17]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 38.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 39.23]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 107.10]
+}
+{ Account: 658-113436
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 4.16]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 67.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 61.99]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 60.59]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 214.68]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 29.68]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 384.88]
+
+Movimiento: [Cusip: L5529V182 Settlement Date: 04/25/2018 Trade Date: 04/24/2018 BuySell: B quantity: 8,214 grossRevenue: 749.97]
+}
+{ Account: 658-113505
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 40.94]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 11.19]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 5.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 22.57]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 12.69]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 33.93]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 3.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 8.90]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 9.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 31.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 27.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 15.02]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 71.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 32.15]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 26.28]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 12.17]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 28.73]
+}
+{ Account: 658-113619
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 143.25]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 253.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 87.93]
+}
+{ Account: 658-113637
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 19.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 8.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 13.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 6.98]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 14.85]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 23.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 51.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 43.54]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 71.45]
+}
+{ Account: 658-113698
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 0.13]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 0.41]
+}
+{ Account: 658-113776
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 37.60]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 12.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 20.28]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 7.14]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 62.25]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 148.54]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 15.68]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 64.98]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 9.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 17.24]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 16.14]
+
+Movimiento: [Cusip: L6365R632 Settlement Date: 04/24/2018 Trade Date: 04/23/2018 BuySell: B quantity: 2,777 grossRevenue: 169.97]
+}
+{ Account: 658-113857
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 36.85]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 184.04]
+}
+{ Account: 658-113943
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 23.39]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 65.56]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 75.68]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 50.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 128.55]
+}
+{ Account: 658-114118
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 10.85]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 63.85]
+}
+{ Account: 658-114133
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 108.82]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 15.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 13.65]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 3.71]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 21.90]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 27.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 150.99]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 70.94]
+}
+{ Account: 658-114366
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 24.58]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 36.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 9.93]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 23.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 33.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 17.74]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 14.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 9.48]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 4.20]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 13.16]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 21.56]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 19.58]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 20.98]
+}
+{ Account: 658-114579
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 51.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 29.65]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 61.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 110.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 49.54]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 72.20]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 61.35]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 113.30]
+}
+{ Account: 658-114691
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 152.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 3.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 10.82]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 29.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 96.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 170.42]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 109.57]
+}
+{ Account: 658-114865
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 44.06]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 78.93]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 62.15]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 31.54]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 18.01]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 39.02]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 100.51]
+}
+{ Account: 658-114939
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 29.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 12.35]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 20.85]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 42.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 13.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 15.27]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 34.28]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 70.05]
+}
+{ Account: 658-115544
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 40.12]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 10.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 26.96]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 27.51]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 72.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 25.56]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 19.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 36.59]
+}
+{ Account: 658-115616
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 76.66]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 97.17]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 0.30]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 29.07]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 22.69]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 21.59]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 18.82]
+}
+{ Account: 658-115617
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 13.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 19.63]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 7.59]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 8.37]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 19.42]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 4.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 6.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 7.19]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 26.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 69.35]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 43.54]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 22.84]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 157.04]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 30.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 38.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 8.42]
+}
+{ Account: 658-115743
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 81.24]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 14.94]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 47.34]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 64.68]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 60.31]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 43.04]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 56.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 45.35]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 93.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 44.07]
+}
+{ Account: 658-116505
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 68.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 92.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 93.15]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 97.15]
+}
+{ Account: 658-117256
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 309.73]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 78.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 66.04]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 108.75]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 135.79]
+}
+{ Account: 658-119217
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 33.60]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 27.23]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 71.87]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 14.04]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 49.68]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 33.12]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 62.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 46.04]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 44.11]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 116.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 67.80]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 11.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 20.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 9.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 7.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 18.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 51.94]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 22.91]
+}
+{ Account: 658-119913
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 171.28]
+}
+{ Account: 658-119961
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 10.01]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 0.69]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 1.28]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 1.03]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 2.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 6.34]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 4.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 5.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 2.42]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 5.72]
+}
+{ Account: 658-119963
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 20.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 10.24]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 11.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 9.74]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 14.73]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 19.84]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 51.73]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 14.01]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 10.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 6.37]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 8.54]
+}
+{ Account: 658-120074
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 69.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 55.27]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 78.26]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 36.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 62.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 17.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 33.44]
+}
+{ Account: 658-121202
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 52.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 20.73]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 33.44]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 30.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 11.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 8.90]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 17.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 33.49]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 15.93]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 9.12]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 12.85]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 16.51]
+}
+{ Account: 658-121313
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 56.51]
+
+Movimiento: [Cusip: P989MJBG5 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: B quantity: 50,000 grossRevenue: 308.50]
+
+Movimiento: [Cusip: L00218237 Settlement Date: 04/11/2018 Trade Date: 04/10/2018 BuySell: B quantity: 1,082 grossRevenue: 99.97]
+
+Movimiento: [Cusip: L63653668 Settlement Date: 04/11/2018 Trade Date: 04/10/2018 BuySell: B quantity: 1,433 grossRevenue: 124.97]
+
+Movimiento: [Cusip: L63667148 Settlement Date: 04/11/2018 Trade Date: 04/10/2018 BuySell: B quantity: 954 grossRevenue: 124.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 64.43]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 59.47]
+}
+{ Account: 658-121631
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 13.02]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 3.10]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 14.06]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 17.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 37.82]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 20.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 33.44]
+}
+{ Account: 658-121634
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 15.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 17.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 37.82]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 48.66]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 20.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 20.06]
+}
+{ Account: 658-121774
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 1.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 43.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 28.62]
+}
+{ Account: 658-121835
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 56.85]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 40.96]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 29.70]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 31.03]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 27.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 79.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 82.43]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 67.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 56.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 7.25]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 23.22]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 26.02]
+}
+{ Account: 658-122031
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 169.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 19.74]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 36.84]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 58.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 221.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 102.20]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 39.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 79.64]
+}
+{ Account: 658-122362
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 9.17]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 21.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 13.65]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 6.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 7.51]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 17.84]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 11.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 7.78]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 11.69]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 133.48]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 21.10]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 9.56]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 5.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 18.61]
+}
+{ Account: 658-122513
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 11.58]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 1.85]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 2.05]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 11.61]
+}
+{ Account: 658-122551
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 11.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 10.44]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 11.15]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 21.92]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 38.05]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 59.35]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 35.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 20.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 29.71]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 76.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 46.11]
+}
+{ Account: 658-122572
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 17.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 18.74]
+}
+{ Account: 658-122670
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 13.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 46.54]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 28.97]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 21.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 5.70]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 9.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 11.63]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 14.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 25.83]
+
+Movimiento: [Cusip: 712995919 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 20.16]
+}
+{ Account: 658-123008
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 114.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 42.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 140.04]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 102.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 107.14]
+}
+{ Account: 658-123019
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 32.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 11.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 74.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 44.17]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 74.28]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 5.39]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 20.56]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 8.01]
+}
+{ Account: 658-123340
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 57.57]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 96.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 53.92]
+}
+{ Account: 658-123477
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 21.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 20.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 17.54]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 7.30]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 18.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 55.60]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 16.35]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 48.22]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 19.98]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 83.06]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 212.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 47.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 19.22]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 18.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 172.31]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 22.06]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 138.60]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 39.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 68.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 146.61]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 57.72]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 69.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 19.17]
+}
+{ Account: 658-123776
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 42.98]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 37.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 39.15]
+}
+{ Account: 658-123782
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 115.60]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 56.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 27.94]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 44.05]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 41.87]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 45.60]
+}
+{ Account: 658-124044
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/04/2018 Trade Date: 04/04/2018 BuySell: S quantity: 0 grossRevenue: 135.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 168.81]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 58.83]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 240.13]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 77.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 137.14]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 170.19]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 67.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 51.11]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 14.13]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 27.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 27.08]
+}
+{ Account: 658-121389
+Movimiento: [Cusip: P19110AG3 Settlement Date: 04/05/2018 Trade Date: 04/05/2018 BuySell: S quantity: 150,000 grossRevenue: 375.00]
+}
+{ Account: 658-121410
+Movimiento: [Cusip: 25150L108 Settlement Date: 04/05/2018 Trade Date: 04/05/2018 BuySell: B quantity: 2,000 grossRevenue: 100.00]
+
+Movimiento: [Cusip: 25150L108 Settlement Date: 04/05/2018 Trade Date: 04/05/2018 BuySell: B quantity: 4,000 grossRevenue: 200.00]
+
+Movimiento: [Cusip: 912909AD0 Settlement Date: 04/05/2018 Trade Date: 04/05/2018 BuySell: B quantity: 100,000 grossRevenue: 375.00]
+
+Movimiento: [Cusip: P37149AR5 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 200,000 grossRevenue: 170.00]
+
+Movimiento: [Cusip: P37149AR5 Settlement Date: 04/13/2018 Trade Date: 04/12/2018 BuySell: S quantity: 200,000 grossRevenue: 170.00]
+
+Movimiento: [Cusip: P37149AR5 Settlement Date: 04/13/2018 Trade Date: 04/12/2018 BuySell: S quantity: 200,000 grossRevenue: 170.00]
+}
+{ Account: 658-057857
+Movimiento: [Cusip: P90187AE8 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 25,000 grossRevenue: 125.00]
+
+Movimiento: [Cusip: 040114HB9 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 150,000 grossRevenue: 112.50]
+
+Movimiento: [Cusip: 063248HF8 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 250,000 grossRevenue: 18.75]
+
+Movimiento: [Cusip: 06426WK68 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 250,000 grossRevenue: 18.75]
+
+Movimiento: [Cusip: 38148PB97 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 250,000 grossRevenue: 31.25]
+
+Movimiento: [Cusip: 71270QRW8 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 250,000 grossRevenue: 6.25]
+
+Movimiento: [Cusip: 75524KKD5 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 77,000 grossRevenue: 3.85]
+}
+{ Account: 658-087466
+Movimiento: [Cusip: 25490K315 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 1,000 grossRevenue: 234.50]
+
+Movimiento: [Cusip: G87572163 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 6,605 grossRevenue: 809.12]
+
+Movimiento: [Cusip: 25490K315 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 1,000 grossRevenue: 202.00]
+}
+{ Account: 658-119663
+Movimiento: [Cusip: 464286400 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 400 grossRevenue: 62.60]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 62.66]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 42.07]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 167.27]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 46.77]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 33.07]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 225.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 147.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 141.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 94.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 197.20]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 616.63]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 61.81]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 68.18]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 114.70]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 14.10]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 16.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 23.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 92.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 214.82]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 87.49]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 73.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 36.69]
+}
+{ Account: 658-119664
+Movimiento: [Cusip: 464286400 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 400 grossRevenue: 62.60]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 87.26]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 42.07]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 11.49]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 182.24]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 1.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 40.87]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 141.72]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 122.78]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 94.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 582.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 61.81]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 91.85]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 68.18]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 81.93]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 14.10]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 27.78]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 32.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 87.49]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 73.47]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 36.69]
+}
+{ Account: 658-122759
+Movimiento: [Cusip: 040114HQ6 Settlement Date: 04/06/2018 Trade Date: 04/06/2018 BuySell: B quantity: 200,000 grossRevenue: 1,250.00]
+}
+{ Account: 658-049794
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 22.10]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 50.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 16.22]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 35.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 62.87]
+}
+{ Account: 658-052282
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 67.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 159.28]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 116.18]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 152.20]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 33.30]
+}
+{ Account: 658-057651
+Movimiento: [Cusip: P989MJAY7 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: B quantity: 52,000 grossRevenue: 436.80]
+
+Movimiento: [Cusip: 37950E259 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: B quantity: 1,600 grossRevenue: 435.20]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 34.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 39.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 89.59]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 87.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 134.81]
+}
+{ Account: 658-071957
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 130.35]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 43.28]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 67.25]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 32.19]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 123.36]
+}
+{ Account: 658-086022
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 15.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 28.54]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 33.30]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 58.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 5.39]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 37.55]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 27.81]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 51.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 15.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 25.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 44.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 46.33]
+}
+{ Account: 658-086614
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 45.93]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 45.43]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 39.67]
+
+Movimiento: [Cusip: L4058T130 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: B quantity: 4,635 grossRevenue: 174.98]
+
+Movimiento: [Cusip: N6945AAJ6 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: B quantity: 150,000 grossRevenue: 562.50]
+
+Movimiento: [Cusip: 040114HL7 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: B quantity: 75,000 grossRevenue: 281.25]
+
+Movimiento: [Cusip: 46625HJW1 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 110,000 grossRevenue: 275.00]
+
+Movimiento: [Cusip: G36346545 Settlement Date: 04/24/2018 Trade Date: 04/23/2018 BuySell: B quantity: 3,613 grossRevenue: 187.49]
+
+Movimiento: [Cusip: 46625HJW1 Settlement Date: 04/24/2018 Trade Date: 04/23/2018 BuySell: S quantity: 110,000 grossRevenue: 275.00]
+
+Movimiento: [Cusip: 46625HJW1 Settlement Date: 04/24/2018 Trade Date: 04/23/2018 BuySell: S quantity: 110,000 grossRevenue: 275.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 57.68]
+}
+{ Account: 658-091192
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 18.53]
+}
+{ Account: 658-110230
+Movimiento: [Cusip: 01535P106 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 1,250 grossRevenue: 22.09]
+
+Movimiento: [Cusip: 37045V100 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 28 grossRevenue: 13.44]
+
+Movimiento: [Cusip: 37045V126 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 24 grossRevenue: 6.22]
+
+Movimiento: [Cusip: 62010U101 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 60 grossRevenue: 7.05]
+
+Movimiento: [Cusip: 37045V126 Settlement Date: 04/10/2018 Trade Date: 04/09/2018 BuySell: S quantity: 24 grossRevenue: 6.22]
+
+Movimiento: [Cusip: 37045V126 Settlement Date: 04/10/2018 Trade Date: 04/09/2018 BuySell: S quantity: 24 grossRevenue: 6.22]
+
+Movimiento: [Cusip: 62010U101 Settlement Date: 04/10/2018 Trade Date: 04/09/2018 BuySell: S quantity: 60 grossRevenue: 7.05]
+
+Movimiento: [Cusip: 62010U101 Settlement Date: 04/10/2018 Trade Date: 04/09/2018 BuySell: S quantity: 60 grossRevenue: 7.05]
+}
+{ Account: 658-112318
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 118.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 133.77]
+
+Movimiento: [Cusip: P04559AL7 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: B quantity: 50,000 grossRevenue: 250.00]
+
+Movimiento: [Cusip: P90187AE8 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: B quantity: 50,000 grossRevenue: 250.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 91.51]
+}
+{ Account: 658-112834
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 356.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 165.78]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 426.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 87.66]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 599.54]
+}
+{ Account: 658-113879
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 6.09]
+}
+{ Account: 658-114045
+Movimiento: [Cusip: 464286400 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: B quantity: 500 grossRevenue: 107.50]
+
+Movimiento: [Cusip: 07329M100 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: B quantity: 1,000 grossRevenue: 107.50]
+
+Movimiento: [Cusip: 984245100 Settlement Date: 04/27/2018 Trade Date: 04/27/2018 BuySell: B quantity: 800 grossRevenue: 87.20]
+}
+{ Account: 658-114097
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 36.69]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 37.49]
+}
+{ Account: 658-114938
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 19.63]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 19.42]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 3.75]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 6.10]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 21.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 161.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 10.79]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 26.52]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 17.18]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 66.63]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 36.28]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 26.16]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 28.59]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 78.72]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 45.03]
+}
+{ Account: 658-117125
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 5.98]
+}
+{ Account: 658-121127
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 102.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 125.38]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 75.71]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 342.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 414.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 304.83]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 413.37]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 63.73]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 155.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 192.71]
+}
+{ Account: 658-123076
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/09/2018 Trade Date: 04/09/2018 BuySell: S quantity: 0 grossRevenue: 1.04]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 0.01]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 0.04]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 0.03]
+}
+{ Account: 658-001201
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 219.74]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 28.67]
+}
+{ Account: 658-001318
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 200.64]
+}
+{ Account: 658-001612
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 61.73]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 41.60]
+}
+{ Account: 658-071777
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 121.81]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 211.63]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 66.50]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 141.39]
+}
+{ Account: 658-091718
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 69.88]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 33.06]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 6.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 27.71]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 26.45]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 39.02]
+
+Movimiento: [Cusip: 023135106 Settlement Date: 04/11/2018 Trade Date: 04/11/2018 BuySell: B quantity: 34 grossRevenue: 62.50]
+
+Movimiento: [Cusip: 46434V704 Settlement Date: 04/11/2018 Trade Date: 04/11/2018 BuySell: S quantity: 3,581 grossRevenue: 247.09]
+
+Movimiento: [Cusip: 71654V408 Settlement Date: 04/11/2018 Trade Date: 04/11/2018 BuySell: B quantity: 3,500 grossRevenue: 122.50]
+}
+{ Account: 658-112938
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 25.76]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 157.69]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 55.61]
+}
+{ Account: 658-113214
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 18.30]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 71.98]
+}
+{ Account: 658-114037
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 15.58]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 29.17]
+}
+{ Account: 658-114140
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 16.74]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 38.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 7.41]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 88.77]
+}
+{ Account: 658-115795
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 15.57]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 19.66]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 135.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 44.48]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/13/2018 Trade Date: 04/13/2018 BuySell: S quantity: 0 grossRevenue: 22.80]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 16.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 18.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 21.00]
+}
+{ Account: 658-116466
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 36.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 73.65]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 90.10]
+}
+{ Account: 658-118868
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 99.33]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 113.37]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 141.10]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 122.43]
+}
+{ Account: 658-120520
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 29.05]
+}
+{ Account: 658-121779
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 3.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 95.51]
+}
+{ Account: 658-122456
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 28.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 36.14]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 140.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 23.23]
+}
+{ Account: 658-127189
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 90.91]
+}
+{ Account: 658-128288
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 25.59]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 45.53]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 57.19]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 46.26]
+}
+{ Account: 658-128584
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 45.01]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/10/2018 Trade Date: 04/10/2018 BuySell: S quantity: 0 grossRevenue: 13.51]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 107.66]
+
+Movimiento: [Cusip: P04559AL7 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: B quantity: 30,000 grossRevenue: 150.00]
+
+Movimiento: [Cusip: P90187AE8 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: B quantity: 30,000 grossRevenue: 150.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 41.64]
+}
+{ Account: 658-001661
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 37.03]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 71.12]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 37.14]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 41.93]
+}
+{ Account: 658-053946
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 90.30]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 84.83]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 55.44]
+}
+{ Account: 658-055345
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 1,520.79]
+}
+{ Account: 658-055538
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 895.46]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 1,134.72]
+}
+{ Account: 658-057703
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 125.31]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 60.51]
+}
+{ Account: 658-058909
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 156.78]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 178.37]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 140.65]
+}
+{ Account: 658-062419
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 172.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 189.10]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 442.90]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 106.05]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 133.16]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 69.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 68.73]
+}
+{ Account: 658-063137
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 138.51]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 107.54]
+}
+{ Account: 658-081714
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 108.53]
+}
+{ Account: 658-087114
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 219.14]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 214.64]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 18.96]
+}
+{ Account: 658-090358
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 127.18]
+}
+{ Account: 658-111349
+Movimiento: [Cusip: 25271CAP7 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: B quantity: 60,000 grossRevenue: 150.00]
+}
+{ Account: 658-112848
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 248.32]
+}
+{ Account: 658-113663
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 65.23]
+}
+{ Account: 658-113931
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 23.07]
+}
+{ Account: 658-114152
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 25.02]
+}
+{ Account: 658-116170
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 160.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 636.28]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 99.65]
+}
+{ Account: 658-116410
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 70.70]
+
+Movimiento: [Cusip: P989MJBG5 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: B quantity: 60,000 grossRevenue: 315.00]
+}
+{ Account: 658-116955
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 28.99]
+}
+{ Account: 658-117746
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 89.75]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 28.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 137.89]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 93.39]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 39.58]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 16.57]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 23.86]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 23.22]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 26.02]
+}
+{ Account: 658-118412
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 48.72]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 19.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 56.49]
+}
+{ Account: 658-119172
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 57.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 19.90]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 47.03]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 39.76]
+}
+{ Account: 658-119583
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 50.82]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 54.03]
+}
+{ Account: 658-119795
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 16.20]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 25.24]
+}
+{ Account: 658-119914
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 17.22]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 67.10]
+}
+{ Account: 658-120250
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 111.68]
+}
+{ Account: 658-121271
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 22.57]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 25.00]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 21.11]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 27.91]
+}
+{ Account: 658-121387
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 128.46]
+}
+{ Account: 658-122665
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 121.83]
+
+Movimiento: [Cusip: 040114HK9 Settlement Date: 04/17/2018 Trade Date: 04/17/2018 BuySell: B quantity: 170,000 grossRevenue: 765.00]
+
+Movimiento: [Cusip: 040114HL7 Settlement Date: 04/17/2018 Trade Date: 04/17/2018 BuySell: B quantity: 150,000 grossRevenue: 900.00]
+}
+{ Account: 658-122890
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 51.90]
+}
+{ Account: 658-123061
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 48.19]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 5.51]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 22.97]
+}
+{ Account: 658-124043
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 240.43]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 42.44]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 79.93]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 136.36]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 22.21]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 22.06]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 0 grossRevenue: 30.95]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 23.42]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 27.42]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 27.08]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 27.10]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 23.32]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 26.39]
+}
+{ Account: 658-124244
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 35.02]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 36.04]
+}
+{ Account: 658-127278
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/12/2018 Trade Date: 04/12/2018 BuySell: S quantity: 0 grossRevenue: 107.43]
+}
+{ Account: 658-064268
+Movimiento: [Cusip: 172967424 Settlement Date: 04/16/2018 Trade Date: 04/16/2018 BuySell: B quantity: 425 grossRevenue: 106.25]
+
+Movimiento: [Cusip: 71654V408 Settlement Date: 04/16/2018 Trade Date: 04/16/2018 BuySell: B quantity: 1,500 grossRevenue: 75.00]
+}
+{ Account: 658-119496
+Movimiento: [Cusip: P989MJBN0 Settlement Date: 04/17/2018 Trade Date: 04/17/2018 BuySell: B quantity: 50,000 grossRevenue: 350.00]
+}
+{ Account: 658-089744
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 9.65]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 30.69]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/18/2018 Trade Date: 04/18/2018 BuySell: S quantity: 0 grossRevenue: 22.67]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 50.29]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: S quantity: 0 grossRevenue: 37.19]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 0 grossRevenue: 5.40]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 28.91]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 27.51]
+
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/26/2018 Trade Date: 04/26/2018 BuySell: S quantity: 0 grossRevenue: 59.06]
+}
+{ Account: 658-046727
+Movimiento: [Cusip: P78625DD2 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: B quantity: 50,000 grossRevenue: 150.00]
+
+Movimiento: [Cusip: P989MJBL4 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: B quantity: 100,000 grossRevenue: 250.00]
+
+Movimiento: [Cusip: P1265VAD4 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: B quantity: 100,000 grossRevenue: 312.50]
+}
+{ Account: 658-050720
+Movimiento: [Cusip: P90187AE8 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: B quantity: 250,000 grossRevenue: 1,562.50]
+
+Movimiento: [Cusip: 69783UAA9 Settlement Date: 04/19/2018 Trade Date: 04/19/2018 BuySell: S quantity: 200,000 grossRevenue: 1,000.00]
+}
+{ Account: 658-114107
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/20/2018 Trade Date: 04/20/2018 BuySell: S quantity: 0 grossRevenue: 4.93]
+}
+{ Account: 658-054823
+Movimiento: [Cusip: 854502101 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 220 grossRevenue: 178.00]
+}
+{ Account: 658-091820
+Movimiento: [Cusip: 88031M109 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 633 grossRevenue: 62.50]
+}
+{ Account: 658-120452
+Movimiento: [Cusip: 000REG001 Settlement Date: 04/23/2018 Trade Date: 04/23/2018 BuySell: S quantity: 0 grossRevenue: 45.05]
+}
+{ Account: 658-046845
+Movimiento: [Cusip: 279158AJ8 Settlement Date: 04/24/2018 Trade Date: 04/24/2018 BuySell: B quantity: 25,000 grossRevenue: 31.25]
+}
+{ Account: 658-065955
+Movimiento: [Cusip: L5529V182 Settlement Date: 04/25/2018 Trade Date: 04/24/2018 BuySell: B quantity: 2,190 grossRevenue: 199.97]
+
+Movimiento: [Cusip: 023135106 Settlement Date: 04/27/2018 Trade Date: 04/27/2018 BuySell: S quantity: 45 grossRevenue: 350.86]
+}
+{ Account: 658-117680
+Movimiento: [Cusip: 46429B598 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: B quantity: 5,000 grossRevenue: 425.00]
+
+Movimiento: [Cusip: 74347W882 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: B quantity: 22,000 grossRevenue: 1,155.00]
+}
+{ Account: 658-120700
+Movimiento: [Cusip: 99XFCA057 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: B quantity: 970 grossRevenue: 0.13]
+}
+{ Account: 658-124392
+Movimiento: [Cusip: 33733E302 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: B quantity: 180 grossRevenue: 177.03]
+
+Movimiento: [Cusip: 46121Y102 Settlement Date: 04/25/2018 Trade Date: 04/25/2018 BuySell: S quantity: 4,150 grossRevenue: 176.38]
+}
