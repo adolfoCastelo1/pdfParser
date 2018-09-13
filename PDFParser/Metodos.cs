@@ -9,73 +9,78 @@ using iTextSharp.text.pdf.parser;
 using System.IO;
 using System.Text.RegularExpressions;
 
-namespace PDFParser
+
+namespace PdfParser
 {
+    #region Pershing structs
+    public class PershingCuenta
+    {
+        public string account;
+        public float total;
+    }
+
+    public class PershingInteres
+    {
+        public int ip;
+        public List<PershingCuenta> cuentas;
+        public float total;
+    }
+
+    public class SdtPershingPDF
+    {
+        public List<PershingInteres> intereses;
+        public float all;
+    }
+
+    #endregion
+
+
+
+    #region Clases de Morgan 
+    public class MorganTransaccion
+    {
+        public string account;
+        public string cusip;
+        public string settlementDate;
+        public string tradeDate;
+        public string buySell;
+        public string quantity;
+        public string grossRevenue;
+    }
+
+    public class MorganPDF
+    {
+        public List<MorganTransaccion> transacciones;
+    }
+    #region Nuevos structs de Morgan para devolver el PDF ordenado por account, por el issue correspondiente de github.
+    public class MorganMovimiento
+    {
+        public string cusip;
+        public string settlementDate;
+        public string tradeDate;
+        public string buySell;
+        public string quantity;
+        public string grossRevenue;
+    }
+
+    public class MorganCuenta
+    {
+        public string account;
+        public List<MorganMovimiento> movimientos;
+    }
+
+    public class SdtMorganPDF
+    {
+        public List<MorganCuenta> cuentas;
+    }
+    #endregion
+
+    #endregion
+
+
     public class Metodos
     {
-        #region Pershing structs
-        public struct PershingCuenta
-        {
-            public string account;
-            public float total;
-        }
-
-        public struct PershingInteres
-        {
-            public int ip;
-            public List<PershingCuenta> cuentas;
-            public float total;
-        }
-
-        public struct PershingPDFOrdenado
-        {
-            public List<PershingInteres> intereses;
-            public float all;
-        }
-
-        #endregion
-
-        #region Morgan structs
-        public struct MorganTransaccion
-        {
-            public string account;
-            public string cusip;
-            public string settlementDate;
-            public string tradeDate;
-            public char buySell;
-            public string quantity;
-            public string grossRevenue;
-        }
-
-        public struct MorganPDF
-        {
-            public List<MorganTransaccion> transacciones;
-        }
-        #region Nuevos structs de Morgan para devolver el PDF ordenado por account, por el issue correspondiente de github.
-        public struct MorganMovimiento
-        {
-            public string cusip;
-            public string settlementDate;
-            public string tradeDate;
-            public char buySell;
-            public string quantity;
-            public string grossRevenue;
-        }
-
-        public struct MorganCuenta
-        {
-            public string account;
-            public List<MorganMovimiento> movimientos;
-        }
-
-        public struct MorganPDFOrdenado
-        {
-            public List<MorganCuenta> cuentas;
-        }
-        #endregion
-
-        #endregion
-
+        
 
         #region Auxiliares
 
@@ -204,7 +209,7 @@ namespace PDFParser
             string lineaActual = todasLasLineas[lineaEspecifica];
             PershingInteres interes = new PershingInteres();
             interes.cuentas = new List<PershingCuenta>();
-            PershingCuenta cuenta;
+            PershingCuenta cuenta = new PershingCuenta();
 
             interes.ip = ObtenerIPDeEsaLinea(lineaActual);
             cuenta.account = ObtenerOFFDeEsaLinea(lineaActual) + ObtenerAccountDeEsaLineaPershing(lineaActual);
@@ -293,12 +298,12 @@ namespace PDFParser
             return s;
         }
 
-        private static char ObtenerBuySellDeEsaLinea(ref string line)
+        private static string ObtenerBuySellDeEsaLinea(ref string line)
         {
             IgnorarEspaciosIniciales(ref line);
             char retorno = line[0];
             line = line.Substring(1);
-            return retorno;
+            return retorno.ToString();
         }
 
         private static string ObtenerQuantityDeEsaLinea(ref string line)
@@ -389,11 +394,11 @@ namespace PDFParser
 
         #region Metodos de Parseo pagina por pagina
 
-        private static PershingPDFOrdenado ParsearUnaPaginaTxtPershing(string[] paginas, int pageNumber)
+        private static SdtPershingPDF ParsearUnaPaginaTxtPershing(string[] paginas, int pageNumber)
         {
             string[] todasLasLineas = paginas[pageNumber].Split('\n');
             int lineaEspecifica = 6; //Las primeras 6 filas son encabezado, no datos (son el nombre del banco y de las columnas)
-            PershingPDFOrdenado retorno = new PershingPDFOrdenado();
+            SdtPershingPDF retorno = new SdtPershingPDF();
             List<PershingInteres> intereses = new List<PershingInteres>();
             PershingInteres interesParseado;
             bool termine = false;
@@ -423,9 +428,9 @@ namespace PDFParser
             return retorno;
         }
 
-        private static PershingPDFOrdenado ProcesarTxtPagesPershing(string[] paginas)
+        private static SdtPershingPDF ProcesarTxtPagesPershing(string[] paginas)
         {
-            PershingPDFOrdenado retorno = new PershingPDFOrdenado();
+            SdtPershingPDF retorno = new SdtPershingPDF();
             for (int page = 1; page <= paginas.Length - 1; page++)
             {
                 retorno = ParsearUnaPaginaTxtPershing(paginas, page);
@@ -467,7 +472,7 @@ namespace PDFParser
         #endregion
 
 
-        public static MorganPDF ParsearPDFMorgan(string filePath)
+        private static MorganPDF ParsearPDFMorgan(string filePath)
         {
             string[] paginas = ArrayPerPdfPage(filePath);
             List<MorganTransaccion> listaTransacciones = ProcesarTxtPagesMorganStanley(paginas);
@@ -476,10 +481,10 @@ namespace PDFParser
             return retorno;
         }
 
-        public static MorganPDFOrdenado ProcesarPDFMorgan(string filePath)
+        public static SdtMorganPDF ProcesarPDFMorgan(string filePath)
         {
             MorganPDF pdfParseado = ParsearPDFMorgan(filePath);
-            MorganPDFOrdenado pdfRetornoOrdenado = new MorganPDFOrdenado();
+            SdtMorganPDF pdfRetornoOrdenado = new SdtMorganPDF();
             pdfRetornoOrdenado.cuentas = new List<MorganCuenta>();
 
             while (pdfParseado.transacciones.Count > 0) //mientras tengo transacciones por procesar
@@ -518,7 +523,7 @@ namespace PDFParser
             return pdfRetornoOrdenado;
         }
 
-        public static PershingPDFOrdenado ProcesarPDFPershing(string filePath)
+        public static SdtPershingPDF ProcesarPDFPershing(string filePath)
         {
             string[] paginas = ArrayPerPdfPage(filePath);
             return ProcesarTxtPagesPershing(paginas);

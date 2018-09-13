@@ -4,3 +4,9 @@ c:\users\laptop1\documents\visual studio 2015\Projects\PDFParser\PDFParser\bin\D
 c:\users\laptop1\documents\visual studio 2015\Projects\PDFParser\PDFParser\obj\Debug\PDFParser.dll
 c:\users\laptop1\documents\visual studio 2015\Projects\PDFParser\PDFParser\obj\Debug\PDFParser.pdb
 C:\Users\laptop1\Documents\Visual Studio 2015\Projects\PDFParser\PDFParser\obj\Debug\PDFParser.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\bin\Debug\PDFParser.dll
+C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\bin\Debug\PDFParser.pdb
+C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\obj\Debug\PDFParser.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\obj\Debug\PDFParser.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\obj\Debug\PDFParser.dll
+C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\obj\Debug\PDFParser.pdb
