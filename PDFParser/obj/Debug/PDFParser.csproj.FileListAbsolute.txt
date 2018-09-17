@@ -10,3 +10,4 @@ C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\obj\Debug\PDFParser.csprojResolveA
 C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\obj\Debug\PDFParser.csproj.CoreCompileInputs.cache
 C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\obj\Debug\PDFParser.dll
 C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\obj\Debug\PDFParser.pdb
+C:\Users\Ezequiel\Desktop\pdfParser\PDFParser\bin\Debug\itextsharp.dll
