@@ -1,10 +1,11 @@
-﻿using System;
+﻿using PdfParser;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static PDFParser.Metodos;
+using static PdfParser.Metodos;
 
 namespace PruebaDelPDFParser
 {
@@ -12,13 +13,13 @@ namespace PruebaDelPDFParser
     {
         static void Main(string[] args)
         {
-            string pdfPathPershing = @"C:\PDFParser\SourcePDFs\Intereses_NDG_(reporte_de_NetX360_FUN070DH).pdf";
-            string pdfPathMorgan = @"C:\PDFParser\SourcePDFs\Linstal_APRIL_2018_Run.pdf";
+            string pdfPathPershing = @"C:\Users\Ezequiel\Desktop\pdfParser\SourcePDFs\Intereses_NDG_(reporte_de_NetX360_FUN070DH).pdf";
+            string pdfPathMorgan = @"C:\Users\Ezequiel\Desktop\pdfParser\SourcePDFs\Linstal_APRIL_2018_Run.pdf";
             string finalOutputTxtFilePathPershing = @"C:\PDFParser\Results\Pershing.txt";
             string finalOutputTxtFilePathMorgan = @"C:\PDFParser\Results\Morgan.txt";
 
-            PershingPDFOrdenado pershingPDFProcesado = ProcesarPDFPershing(pdfPathPershing);
-            MorganPDFOrdenado morganPDFProcesado = ProcesarPDFMorgan(pdfPathMorgan);
+            SdtPershingPDF pershingPDFProcesado = ProcesarPDFPershing(pdfPathPershing);
+            SdtMorganPDF morganPDFProcesado = ProcesarPDFMorgan(pdfPathMorgan);
             Console.WriteLine("PDFs Procesados con exito!");
             Console.ReadKey();
             Console.Clear();

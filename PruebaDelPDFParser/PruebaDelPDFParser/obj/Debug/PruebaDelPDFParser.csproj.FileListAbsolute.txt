@@ -7,3 +7,13 @@ c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\Prueba
 c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\obj\Debug\PruebaDelPDFParser.csprojResolveAssemblyReference.cache
 c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\obj\Debug\PruebaDelPDFParser.exe
 c:\users\laptop1\documents\visual studio 2015\Projects\PruebaDelPDFParser\PruebaDelPDFParser\obj\Debug\PruebaDelPDFParser.pdb
+C:\Users\Ezequiel\Desktop\pdfParser\PruebaDelPDFParser\PruebaDelPDFParser\obj\Debug\PruebaDelPDFParser.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\pdfParser\PruebaDelPDFParser\PruebaDelPDFParser\obj\Debug\PruebaDelPDFParser.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\pdfParser\PruebaDelPDFParser\PruebaDelPDFParser\obj\Debug\PruebaDelPDFParser.exe
+C:\Users\Ezequiel\Desktop\pdfParser\PruebaDelPDFParser\PruebaDelPDFParser\obj\Debug\PruebaDelPDFParser.pdb
+C:\Users\Ezequiel\Desktop\pdfParser\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\PruebaDelPDFParser.exe.config
+C:\Users\Ezequiel\Desktop\pdfParser\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\PruebaDelPDFParser.exe
+C:\Users\Ezequiel\Desktop\pdfParser\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\PruebaDelPDFParser.pdb
+C:\Users\Ezequiel\Desktop\pdfParser\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\PDFParser.dll
+C:\Users\Ezequiel\Desktop\pdfParser\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\itextsharp.dll
+C:\Users\Ezequiel\Desktop\pdfParser\PruebaDelPDFParser\PruebaDelPDFParser\bin\Debug\PDFParser.pdb
